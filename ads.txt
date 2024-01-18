@@ -15,6 +15,5 @@
     "toBeClicked":1,
     "pokiPlayNowClick":"._oaA25NgnD27qRa7gZZ3",
     "pokiBackButtonClick":".Luw8lK38r3OQwrI1_Mkt",
-    "crezyPlayNowClick":".MuiButton-root.playNowButton.css-lesl0s",
-    "crezyBackButtonClick":".Luw8lK38r3OQwrI1_Mkt"
+    "crezyPlayNowClick":".MuiButton-root.playNowButton.css-lesl0s"
 }
