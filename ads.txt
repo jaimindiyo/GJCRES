@@ -12,5 +12,9 @@
     "googleNativeVisible":true,
     "googleBannerVisible":true,
     "isBackAdd":true,
-    "toBeClicked":1
+    "toBeClicked":1,
+    "pokiPlayNowClick":"._oaA25NgnD27qRa7gZZ3",
+    "pokiBackButtonClick":".Luw8lK38r3OQwrI1_Mkt",
+    "crezyPlayNowClick":"._oaA25NgnD27qRa7gZZ3",
+    "crezyBackButtonClick":".Luw8lK38r3OQwrI1_Mkt"
 }
