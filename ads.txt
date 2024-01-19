@@ -1,5 +1,5 @@
 {
-    "latestVersion":"0.0.2",
+    "latestVersion":"0.0.1",
     "adType":"google",
     "appUrl":"https://play.google.com/store/apps/details?id=com.games.alllatestcasualgames&hl=en-IN",
     "showAd":false,
@@ -8,7 +8,7 @@
     "googleBannerId":"ca-app-pub-3940256099942544/6300978111",
     "googleAppOpenAd":"ca-app-pub-3940256099942544/9257395921",
     "googleInterstitial":"ca-app-pub-3940256099942544/1033173712",
-    "isUpdateApp":true,
+    "isUpdateApp":false,
     "appOpenVisible":true,
     "googleNativeVisible":true,
     "googleBannerVisible":true,
