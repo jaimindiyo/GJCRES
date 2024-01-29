@@ -5,7 +5,7 @@
     "showAd":true,
     "privacyUrl":"https://crgjpkes.blogspot.com/2024/01/privacy-policy.html",
     "googleNativeId":"ca-app-pub-7689955698422138/1026334100",
-    "googleBannerId":"ca-app-pub-7689955698422138/2702593458",
+    "googleBannerId":"ca-app-pub-7689955698422138/1238087096",
     "googleAppOpenAd":"ca-app-pub-7689955698422138/2702593458",
     "googleInterstitial":"ca-app-pub-7689955698422138/3884377831",
     "isUpdateApp":false,
