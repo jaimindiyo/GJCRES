@@ -9,7 +9,7 @@
     "googleAppOpenAd":"ca-app-pub-7689955698422138/2702593458",
     "googleInterstitial":"ca-app-pub-7689955698422138/3884377831",
     "isUpdateApp":false,
-    "appOpenVisible":false,
+    "appOpenVisible":true,
     "googleNativeVisible":true,
     "googleBannerVisible":true,
     "isBackAdd":true,
