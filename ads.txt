@@ -13,7 +13,7 @@
     "googleNativeVisible":true,
     "googleBannerVisible":false,
     "isBackAdd":true,
-    "toBeClicked":3,
+    "toBeClicked":2,
     "pokiPlayNowClick":"._oaA25NgnD27qRa7gZZ3",
     "pokiBackButtonClick":".Luw8lK38r3OQwrI1_Mkt",
     "crezyPlayNowClick":".MuiButton-root.playNowButton.css-lqov17",
