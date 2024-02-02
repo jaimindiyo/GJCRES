@@ -11,7 +11,7 @@
     "isUpdateApp":false,
     "appOpenVisible":false,
     "googleNativeVisible":true,
-    "googleBannerVisible":false,
+    "googleBannerVisible":true,
     "isBackAdd":true,
     "toBeClicked":2,
     "pokiPlayNowClick":"._oaA25NgnD27qRa7gZZ3",
