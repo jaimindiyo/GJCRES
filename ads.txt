@@ -11,7 +11,7 @@
     "isUpdateApp":false,
     "appOpenVisible":true,
     "googleNativeVisible":true,
-    "googleBannerVisible":true,
+    "googleBannerVisible":false,
     "googleInterVisible": true,
     "isBackAdd":true,
     "toBeClicked":3,
