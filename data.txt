@@ -1015,7 +1015,7 @@
       },{
         "gameType":"cz",
         "gameName": "Boxing-Random",
-        "gameImage": "Boxing-Random",
+        "gameImage": "https://images.crazygames.com/games/boxing-random/cover-1622139160089.jpeg?auto=format%2Ccompress&q=20&cs=strip&w=216&h=120&fit=crop&dpr=3",
         "category": "Sports Game",
         "gameURL": "https://www.crazygames.com/game/boxing-random",
         "desc": "Sports Games",
