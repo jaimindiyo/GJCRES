@@ -17,7 +17,7 @@
     "isBackAdd":true,
     "toBeClicked":1,
     "playNowClick":"._oaA25NgnD27qRa7gZZ3",
-    "backButtonClick":".Luw8lK38r3OQwrI1_Mkt"
+    "backButtonClick":".Luw8lK38r3OQwrI1_Mkt",
     "pokiPlayNowClick":"._oaA25NgnD27qRa7gZZ3",
     "pokiBackButtonClick":".Luw8lK38r3OQwrI1_Mkt",
     "crezyPlayNowClick":".MuiButton-root.playNowButton.css-pkb2pz",
