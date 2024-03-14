@@ -23,6 +23,6 @@
     "crezyPlayNowClick":".MuiButton-root.playNowButton.css-q30huy",
     "crezyBackMsg":"Wake Lock released",
     "fbBannerId":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "fbNativeId":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "fbNativeId":"781695596741559_781699926741126",
     "fbInterId":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
 }
