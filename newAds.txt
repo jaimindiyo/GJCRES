@@ -10,7 +10,7 @@
     "googleInterstitial":"ca-app-pub-7689955698422138/3884377831",
     "isUpdateApp":false,
     "appOpenVisible":true,
-    "googleNativeVisible":true,
+    "googleNativeVisible":false,
     "googleBannerVisible":false,
     "googleInterVisible":true,
     "interTimeIntervalInSec":10,
