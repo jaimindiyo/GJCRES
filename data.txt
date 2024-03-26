@@ -190,17 +190,9 @@
       },{
         "gameType":"cz",
         "gameName": "Ludo-Hero",
-        "gameImage": "https://images.crazygames.com/games/ludo-hero/cover-1586285558737.jpg?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Puzzle Games",
-        "gameURL": "https://www.crazygames.com/game/ludo-hero",
-        "desc": "Puzzle Games",
-        "isNew": false
-      },{
-        "gameType":"cz",
-        "gameName": "Ludo-King",
         "gameImage": "https://images.crazygames.com/ludo-king_16x9/20231018093802/ludo-king_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
         "category": "Puzzle Games",
-        "gameURL": "https://crazygames.com/game/ludo-king",
+        "gameURL": "https://www.crazygames.com/game/ludo-hero",
         "desc": "Puzzle Games",
         "isNew": false
       },{
