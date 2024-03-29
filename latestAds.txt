@@ -13,6 +13,7 @@
     "isUpdateApp":false,
     "appOpenVisible":true,
     "googleNativeVisible":true,
+    "googleHomeNativeVisible":true,
     "googleBannerVisible":true,
     "googleInterVisible":true,
     "splashInterVisible":true,
