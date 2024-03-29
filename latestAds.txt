@@ -13,6 +13,7 @@
     "googleNativeVisible":true,
     "googleBannerVisible":true,
     "googleInterVisible":true,
+    "splashInterVisible":true,
     "interTimeIntervalInSec":20,
     "isBackAdd":true,
     "toBeClicked":1,
