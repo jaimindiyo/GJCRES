@@ -13,7 +13,7 @@
     "googleNativeVisible":false,
     "googleBannerVisible":false,
     "googleInterVisible":true,
-    "interTimeIntervalInSec":1,
+    "interTimeIntervalInSec":10,
     "isBackAdd":true,
     "toBeClicked":1,
     "playNowClick":"._oaA25NgnD27qRa7gZZ3",
