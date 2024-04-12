@@ -9,7 +9,7 @@
         "gameURL": "https://www.crazygames.com/game/bubble-blast-pwd",
         "desc": "Casual Games",
         "isNew": false,
-        "isPortrait":true
+        "isPortrait":false
       },
 {
         "gameType":"cz",
