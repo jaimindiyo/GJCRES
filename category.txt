@@ -2,43 +2,43 @@
 "data":[
   {
         "catName":"Puzzle Games",
-        "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto"
   },
 {
         "catName":"Casual Games",
-        "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto"
   },
 {
         "catName":"Sports Game",
-        "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto"
   },
 {
         "catName":"Our Special",
-        "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto"
   },
 {
         "catName":"Action Games",
-        "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto"
   },
 {
         "catName":"Beauty Games",
-        "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto"
   },
 {
         "catName":"MineCraft Games",
-        "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto"
   },
 {
         "catName":"Clickers Games",
-        "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto"
   },
 {
         "catName":"Baby Games",
-        "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto"
   },
 {
         "catName":"Brain Games",
-        "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto"
   }
 
 ]
