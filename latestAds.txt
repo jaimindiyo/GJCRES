@@ -6,6 +6,7 @@
     "privacyUrl":"https://pramukhblack.blogspot.com/2024/03/privacy-policy.html",
     "googleNativeId":"ca-app-pub-3940256099942544/2247696110",
     "googleHomeNativeId":"ca-app-pub-3940256099942544/2247696110",
+    "googleCategoryNativeId":"ca-app-pub-3940256099942544/2247696110",
     "googleBannerId":"ca-app-pub-3940256099942544/6300978111",
     "googleHomeBannerId":"ca-app-pub-3940256099942544/6300978111",
     "googleAppOpenAd":"ca-app-pub-3940256099942544/9257395921",
