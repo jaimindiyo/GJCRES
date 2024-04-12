@@ -16,7 +16,7 @@
     "googleSplashInterstitial":"ca-app-pub-3940256099942544/1033173712",
     "isUpdateApp":false,
     "appOpenVisible":false,
-    "googleNativeVisible":false,
+    "googleNativeVisible":true,
     "googleHomeNativeVisible":false,
     "googlePopularNativeVisible":false,
     "googleCategoryNativeVisible":false,
