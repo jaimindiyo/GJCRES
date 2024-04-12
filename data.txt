@@ -1,6 +1,6 @@
 {
     "data": [
-   
+
 {
         "gameType":"cz",
         "gameName": "Bubble-Blast-Pwd",
@@ -8,7 +8,8 @@
         "category": "Casual Games",
         "gameURL": "https://www.crazygames.com/game/bubble-blast-pwd",
         "desc": "Casual Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":true
       },
 {
         "gameType":"cz",
@@ -17,7 +18,8 @@
         "category": "Casual Games",
         "gameURL": "https://www.crazygames.com/game/chess-online-multiplayer-game",
         "desc": "Casual Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "City-Takeover",
@@ -25,7 +27,8 @@
         "category": "Casual Games",
         "gameURL": "https://www.crazygames.com/game/city-takeover",
         "desc": "Casual Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Draw-Crash-Race",
@@ -33,7 +36,8 @@
         "category": "Casual Games",
         "gameURL": "https://www.crazygames.com/game/draw-crash-race",
         "desc": "Casual Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Drift-Boss",
@@ -41,7 +45,8 @@
         "category": "Casual Games",
         "gameURL": "https://www.crazygames.com/game/drift-boss",
         "desc": "Casual Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Fishland",
@@ -49,7 +54,8 @@
         "category": "Casual Games",
         "gameURL": "https://www.crazygames.com/game/fishland",
         "desc": "Casual Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Giant-Rush",
@@ -57,7 +63,8 @@
         "category": "Casual Games",
         "gameURL": "https://www.crazygames.com/game/giant-rush",
         "desc": "Casual Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Helix-Jump",
@@ -65,7 +72,8 @@
         "category": "Casual Games",
         "gameURL": "https://www.crazygames.com/game/helix-jump",
         "desc": "Casual Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Home-Flip",
@@ -73,7 +81,8 @@
         "category": "Casual Games",
         "gameURL": "https://www.crazygames.com/game/home-flip",
         "desc": "Casual Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Jailbreak-Hide-Or-Attack",
@@ -81,7 +90,8 @@
         "category": "Casual Games",
         "gameURL": "https://www.crazygames.com/game/jailbreak-hide-or-attack",
         "desc": "Casual Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Jet-Rush",
@@ -89,7 +99,8 @@
         "category": "Casual Games",
         "gameURL": "https://www.crazygames.com/game/jet-rush",
         "desc": "Casual Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Man-Runner-2048",
@@ -97,7 +108,8 @@
         "category": "Casual Games",
         "gameURL": "https://www.crazygames.com/game/man-runner-2048",
         "desc": "Casual Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Master-Chess",
@@ -105,7 +117,8 @@
         "category": "Casual Games",
         "gameURL": "https://www.crazygames.com/game/master-chess",
         "desc": "Casual Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Merge-Fruits",
@@ -113,7 +126,8 @@
         "category": "Casual Games",
         "gameURL": "https://www.crazygames.com/game/merge-fruits",
         "desc": "Casual Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Obstacle Race Destroying Simulator",
@@ -121,7 +135,8 @@
         "category": "Casual Games",
         "gameURL": "https://www.crazygames.com/game/obstacle-race-destroying-simulator",
         "desc": "Casual Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Office-Fight",
@@ -129,7 +144,8 @@
         "category": "Casual Games",
         "gameURL": "https://www.crazygames.com/game/office-fight",
         "desc": "Casual Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Square-Bird",
@@ -137,7 +153,8 @@
         "category": "Casual Games",
         "gameURL": "https://www.crazygames.com/game/square-bird",
         "desc": "Casual Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Squishy-Fruits",
@@ -145,7 +162,8 @@
         "category": "Casual Games",
         "gameURL": "https://www.crazygames.com/game/squishy-fruits",
         "desc": "Casual Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Teeth-Runner",
@@ -153,10 +171,11 @@
         "category": "Casual Games",
         "gameURL": "https://www.crazygames.com/game/teeth-runner",
         "desc": "Casual Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
-      
-      
+
+
       {
         "gameType":"cz",
         "gameName": "Block-Champ",
@@ -164,7 +183,8 @@
         "category": "Puzzle Games",
         "gameURL": "https://www.crazygames.com/game/block-champ",
         "desc": "Puzzle Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Butterfly-Shimai",
@@ -172,7 +192,8 @@
         "category": "Puzzle Games",
         "gameURL": "https://www.crazygames.com/game/butterfly-shimai",
         "desc": "Puzzle Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Cups--Water-Sort-Puzzle",
@@ -180,7 +201,8 @@
         "category": "Puzzle Games",
         "gameURL": "https://www.crazygames.com/game/cups---water-sort-puzzle",
         "desc": "Puzzle Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Favorite-Puzzles",
@@ -188,7 +210,8 @@
         "category": "Puzzle Games",
         "gameURL": "https://www.crazygames.com/game/favorite-puzzles",
         "desc": "Puzzle Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Ludo-Hero",
@@ -196,7 +219,8 @@
         "category": "Puzzle Games",
         "gameURL": "https://www.crazygames.com/game/ludo-hero",
         "desc": "Puzzle Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Match-Arena",
@@ -204,7 +228,8 @@
         "category": "Puzzle Games",
         "gameURL": "https://www.crazygames.com/game/match-arena",
         "desc": "Puzzle Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Onet-Connect-Classic",
@@ -212,7 +237,8 @@
         "category": "Puzzle Games",
         "gameURL": "https://www.crazygames.com/game/onet-connect-classic",
         "desc": "Puzzle Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Pipes-The-Puzzle",
@@ -220,7 +246,8 @@
         "category": "Puzzle Games",
         "gameURL": "https://www.crazygames.com/game/pipes-the-puzzle",
         "desc": "Puzzle Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Rope-Color-Sort-3d",
@@ -228,7 +255,8 @@
         "category": "Puzzle Games",
         "gameURL": "https://www.crazygames.com/game/rope-color-sort-3d",
         "desc": "Puzzle Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Sandtrix",
@@ -236,7 +264,8 @@
         "category": "Puzzle Games",
         "gameURL": "https://www.crazygames.com/game/sandtrix",
         "desc": "Puzzle Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Skydom-Reforged",
@@ -244,7 +273,8 @@
         "category": "Puzzle Games",
         "gameURL": "https://www.crazygames.com/game/skydom-reforged",
         "desc": "Puzzle Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Tic-Tac-Toe",
@@ -252,7 +282,8 @@
         "category": "Puzzle Games",
         "gameURL": "https://www.crazygames.com/game/tic-tac-toe",
         "desc": "Puzzle Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Tower-Swap",
@@ -260,7 +291,8 @@
         "category": "Puzzle Games",
         "gameURL": "https://www.crazygames.com/game/tower-swap",
         "desc": "Puzzle Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Wood-Block-Journey",
@@ -268,7 +300,8 @@
         "category": "Puzzle Games",
         "gameURL": "https://www.crazygames.com/game/wood-block-journey",
         "desc": "Puzzle Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Words-Of-Wonders",
@@ -276,7 +309,8 @@
         "category": "Puzzle Games",
         "gameURL": "https://www.crazygames.com/game/words-of-wonders",
         "desc": "Puzzle Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Word-Wipe",
@@ -284,7 +318,8 @@
         "category": "Puzzle Games",
         "gameURL": "https://www.crazygames.com/game/word-wipe",
         "desc": "Puzzle Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
 
 
@@ -296,7 +331,8 @@
         "gameURL": "https://poki.com/en/g/subway-surfers",
         "desc": "Trending Games",
         "isNew": true
-          },{
+,
+          "isPortrait":false},{
             "gameType":"pk",
             "gameName": "Temple Run 2",
             "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/f4b3ac7fe25cad9bc028b33f7a407f28.png",
@@ -304,7 +340,8 @@
             "gameURL": "https://poki.com/en/g/temple-run-2",
             "desc": "Trending Games",
             "isNew": true
-          },{
+,
+          "isPortrait":false},{
         "gameType":"pk",
         "gameName": "Sushi-Party-io",
         "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/e327f46027899af3e9573ef51450bb54.png",
@@ -312,7 +349,8 @@
         "gameURL": "https://poki.com/en/g/sushi-party-io",
         "desc": "Trending Games",
         "isNew": true
-          },{
+,
+          "isPortrait":false},{
             "gameType":"pk",
             "gameName": "Water-Color-Sort",
             "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/bea9b33040f3776e709fbe8c6e23c623.png",
@@ -320,14 +358,16 @@
             "gameURL": "https://poki.com/en/g/water-color-sort",
             "desc": "Trending Games",
             "isNew": true
-          },{
+,
+          "isPortrait":false},{
             "gameType":"pk",
             "gameName": "Word-City-Uncrossed",
             "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/06140fc170bb8a3282537aaf1242bed6.png",
             "category": "Popular Games",
             "gameURL": "https://poki.com/en/g/word-city-uncrossed",
             "desc": "Trending Games",
-            "isNew": false
+            "isNew": false,
+            "isPortrait":false
           },{
             "gameType":"pk",
             "gameName": "Panda-Bubble-Shooter",
@@ -336,7 +376,8 @@
             "gameURL": "https://poki.com/en/g/panda-bubble-shooter",
             "desc": "Trending Games",
             "isNew": true
-          },{
+,
+          "isPortrait":false},{
             "gameType":"pk",
             "gameName": "Mekorama",
             "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/56cba7ef0668cad515855b98be92ac16.png",
@@ -344,7 +385,8 @@
             "gameURL": "https://poki.com/en/g/mekorama",
             "desc": "Trending Games",
             "isNew": true
-          },{
+,
+          "isPortrait":false},{
             "gameType":"pk",
             "gameName": "Stickman-Hook",
             "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/99e090d154caf30f3625df7e456d5984.png",
@@ -352,7 +394,8 @@
             "gameURL": "https://poki.com/en/g/stickman-hook",
             "desc": "Trending Games",
             "isNew": true
-          },
+,
+          "isPortrait":false},
 
 
       {
@@ -362,7 +405,8 @@
         "category": "Popular Games",
         "gameURL": "https://www.crazygames.com/game/winter-clash-3d",
         "desc": "Popular Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Soccer-Dash",
@@ -370,7 +414,8 @@
         "category": "Popular Games",
         "gameURL": "https://www.crazygames.com/game/soccer-dash",
         "desc": "Popular Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Penalty-Rivals",
@@ -378,7 +423,8 @@
         "category": "Popular Games",
         "gameURL": "https://www.crazygames.com/game/penalty-rivals",
         "desc": "Popular Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Find-The-Alien",
@@ -386,7 +432,8 @@
         "category": "Popular Games",
         "gameURL": "https://www.crazygames.com/game/find-the-alien",
         "desc": "Popular Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Shadow-Bullet",
@@ -394,7 +441,8 @@
         "category": "Popular Games",
         "gameURL": "https://www.crazygames.com/game/shadow-bullet",
         "desc": "Popular Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Monster-Trainer-Catching-Game",
@@ -402,7 +450,8 @@
         "category": "Popular Games",
         "gameURL": "https://www.crazygames.com/game/monster-trainer-catching-game",
         "desc": "Popular Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Tiny-Fishing",
@@ -410,7 +459,8 @@
         "category": "Popular Games",
         "gameURL": "https://www.crazygames.com/game/tiny-fishing",
         "desc": "Popular Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Subway-Clash-Remastered",
@@ -418,7 +468,8 @@
         "category": "Popular Games",
         "gameURL": "https://www.crazygames.com/game/subway-clash-remastered",
         "desc": "Popular Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Oneline",
@@ -426,7 +477,8 @@
         "category": "Popular Games",
         "gameURL": "https://www.crazygames.com/game/oneline",
         "desc": "Popular Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Airport-Clash-3d",
@@ -434,7 +486,8 @@
         "category": "Popular Games",
         "gameURL": "https://www.crazygames.com/game/airport-clash-3d",
         "desc": "Popular Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Vegas-Clash-3d-yxd",
@@ -442,7 +495,8 @@
         "category": "Popular Games",
         "gameURL": "https://www.crazygames.com/game/vegas-clash-3d-yxd",
         "desc": "Popular Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Sniper-Clash-3d",
@@ -450,10 +504,11 @@
         "category": "Popular Games",
         "gameURL": "https://www.crazygames.com/game/sniper-clash-3d",
         "desc": "Popular Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
-      
-      
+
+
       {
         "gameType":"cz",
         "gameName": "Cubes-2048-IO",
@@ -461,7 +516,8 @@
         "category": "Our Special",
         "gameURL": "https://www.crazygames.com/game/cubes-2048-io",
         "desc": "Our Special",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Goober-Dash",
@@ -469,7 +525,8 @@
         "category": "Our Special",
         "gameURL": "https://www.crazygames.com/game/goober-dash",
         "desc": "Our Special",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"pk",
         "gameName": "Funny-Daycare",
@@ -477,7 +534,8 @@
         "category": "Our Special",
         "gameURL": "https://poki.com/en/g/funny-daycare",
         "desc": "Funny Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"pk",
         "gameName": "Stickman-Bridge-Constructor",
@@ -485,7 +543,8 @@
         "category": "Our Special",
         "gameURL": "https://poki.com/en/g/stickman-bridge-constructor",
         "desc": "Funny Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"pk",
         "gameName": "Flip-Bros",
@@ -493,7 +552,8 @@
         "category": "Our Special",
         "gameURL": "https://poki.com/en/g/flip-bros",
         "desc": "Funny Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"pk",
         "gameName": "Poor-Eddie",
@@ -501,7 +561,8 @@
         "category": "Our Special",
         "gameURL": "https://poki.com/en/g/poor-eddie",
         "desc": "Funny Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"pk",
         "gameName": "Thumb-Fighter",
@@ -509,7 +570,8 @@
         "category": "Our Special",
         "gameURL": "https://poki.com/en/g/thumb-fighter",
         "desc": "Funny Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"pk",
         "gameName": "Bottle-Flip",
@@ -517,7 +579,8 @@
         "category": "Our Special",
         "gameURL": "https://poki.com/en/g/bottle-flip",
         "desc": "Funny Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"pk",
         "gameName": "Murder",
@@ -525,10 +588,11 @@
         "category": "Our Special",
         "gameURL": "https://poki.com/en/g/murder",
         "desc": "Funny Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
-      
-      
+
+
       {
         "gameType":"cz",
         "gameName": "Barbiemania",
@@ -536,7 +600,8 @@
         "category": "Beauty Games",
         "gameURL": "https://www.crazygames.com/game/barbiemania",
         "desc": "Beauty Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Emergency-Surgery",
@@ -544,7 +609,8 @@
         "category": "Beauty Games",
         "gameURL": "https://www.crazygames.com/game/emergency-surgery",
         "desc": "Beauty Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Fashion-Box-Christmas-Diva",
@@ -552,7 +618,8 @@
         "category": "Beauty Games",
         "gameURL": "https://www.crazygames.com/game/fashion-box-christmas-diva",
         "desc": "Beauty Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Fashion-Challenge-Catwalk-Run",
@@ -560,7 +627,8 @@
         "category": "Beauty Games",
         "gameURL": "https://www.crazygames.com/game/fashion-challenge-catwalk-run",
         "desc": "Beauty Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Funny-Kitty-Care",
@@ -568,7 +636,8 @@
         "category": "Beauty Games",
         "gameURL": "https://www.crazygames.com/game/funny-kitty-care",
         "desc": "Beauty Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Funny-Puppy-Care",
@@ -576,7 +645,8 @@
         "category": "Beauty Games",
         "gameURL": "https://www.crazygames.com/game/funny-puppy-care",
         "desc": "Beauty Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Live-Avatar-Maker-Girls",
@@ -584,7 +654,8 @@
         "category": "Beauty Games",
         "gameURL": "https://www.crazygames.com/game/live-avatar-maker-girls",
         "desc": "Beauty Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Model-Wedding---Girls-Games",
@@ -592,7 +663,8 @@
         "category": "Beauty Games",
         "gameURL": "https://www.crazygames.com/game/model-wedding---girls-games",
         "desc": "Beauty Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Nail-Art-Salon-For-Girls",
@@ -600,7 +672,8 @@
         "category": "Beauty Games",
         "gameURL": "https://www.crazygames.com/game/nail-art-salon-for-girls",
         "desc": "Beauty Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Royal-Dress-Up--Fashion-Queen",
@@ -608,7 +681,8 @@
         "category": "Beauty Games",
         "gameURL": "https://www.crazygames.com/game/royal-dress-up---fashion-queen",
         "desc": "Beauty Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Tictoc-Kpop-Fashion",
@@ -616,7 +690,8 @@
         "category": "Beauty Games",
         "gameURL": "https://www.crazygames.com/game/tictoc-kpop-fashion",
         "desc": "Beauty Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"pk",
         "gameName": "Dress-Up-The-Lovely-Princess",
@@ -624,7 +699,8 @@
         "category": "Beauty Games",
         "gameURL": "https://poki.com/en/g/dress-up-the-lovely-princess",
         "desc": "Girl MakeUp & DressUp Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
       {
         "gameType":"pk",
@@ -633,7 +709,8 @@
         "category": "Beauty Games",
         "gameURL": "https://poki.com/en/g/pony-dressup-2",
         "desc": "Girl MakeUp & DressUp Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
       {
         "gameType":"pk",
@@ -642,7 +719,8 @@
         "category": "Beauty Games",
         "gameURL": "https://poki.com/en/g/pony-dressup",
         "desc": "Girl MakeUp & DressUp Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
       {
         "gameType":"pk",
@@ -651,7 +729,8 @@
         "category": "Beauty Games",
         "gameURL": "https://poki.com/en/g/ellie-and-ben-date-night",
         "desc": "Girl MakeUp & DressUp Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
       {
         "gameType":"pk",
@@ -660,7 +739,8 @@
         "category": "Beauty Games",
         "gameURL": "https://poki.com/en/g/hipster-vs-rockers",
         "desc": "Girl MakeUp & DressUp Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
       {
         "gameType":"pk",
@@ -669,7 +749,8 @@
         "category": "Beauty Games",
         "gameURL": "https://poki.com/en/g/princess-lovely-fashion",
         "desc": "Girl MakeUp & DressUp Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
       {
         "gameType":"pk",
@@ -678,10 +759,11 @@
         "category": "Beauty Games",
         "gameURL": "https://poki.com/en/g/summer-fashion-makeover",
         "desc": "Girl MakeUp & DressUp Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
-      
-      
+
+
       {
         "gameType":"cz",
         "gameName": "Stickman-Miners-Wars",
@@ -689,7 +771,8 @@
         "category": "Action Games",
         "gameURL": "https://www.crazygames.com/game/stickman-miners-wars",
         "desc": "Action Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"pk",
         "gameName": "Combat-Reloaded",
@@ -697,7 +780,8 @@
         "category": "Action Games",
         "gameURL": "https://poki.com/en/g/combat-reloaded",
         "desc": "Shooting Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"pk",
         "gameName": "Combat-Reloaded-2",
@@ -705,7 +789,8 @@
         "category": "Action Games",
         "gameURL": "https://poki.com/en/g/combat-reloaded-2",
         "desc": "Shooting Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"pk",
         "gameName": "Rebels-Clash",
@@ -713,7 +798,8 @@
         "category": "Action Games",
         "gameURL": "https://poki.com/en/g/rebels-clash",
         "desc": "Shooting Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"pk",
         "gameName": "Stick-Merge",
@@ -721,7 +807,8 @@
         "category": "Action Games",
         "gameURL": "https://poki.com/en/g/stick-merge",
         "desc": "Shooting Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"pk",
         "gameName": "Subway-Clash-3d",
@@ -729,7 +816,8 @@
         "category": "Action Games",
         "gameURL": "https://poki.com/en/g/subway-clash-3d",
         "desc": "Shooting Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"pk",
         "gameName": "The-Sniper-Code",
@@ -737,7 +825,8 @@
         "category": "Action Games",
         "gameURL": "https://poki.com/en/g/the-sniper-code",
         "desc": "Shooting Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"pk",
         "gameName": "Yohoho-io",
@@ -745,7 +834,8 @@
         "category": "Action Games",
         "gameURL": "https://poki.com/en/g/yohoho-io",
         "desc": ".io Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
       {
         "gameType":"pk",
@@ -754,7 +844,8 @@
         "category": "Action Games",
         "gameURL": "https://poki.com/en/g/sharkio",
         "desc": ".io Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
       {
         "gameType":"pk",
@@ -763,7 +854,8 @@
         "category": "Action Games",
         "gameURL": "https://poki.com/en/g/flyordie-io",
         "desc": ".io Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
       {
         "gameType":"pk",
@@ -772,7 +864,8 @@
         "category": "Action Games",
         "gameURL": "https://poki.com/en/g/drift-io",
         "desc": ".io Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
       {
         "gameType":"pk",
@@ -781,7 +874,8 @@
         "category": "Action Games",
         "gameURL": "https://poki.com/en/g/ducklings-io",
         "desc": ".io Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
       {
         "gameType":"pk",
@@ -790,7 +884,8 @@
         "category": "Action Games",
         "gameURL": "https://poki.com/en/g/lurkers-io",
         "desc": ".io Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
       {
         "gameType":"pk",
@@ -799,7 +894,8 @@
         "category": "Action Games",
         "gameURL": "https://poki.com/en/g/superbrawl",
         "desc": ".io Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
       {
         "gameType":"pk",
@@ -808,7 +904,8 @@
         "category": "Action Games",
         "gameURL": "https://poki.com/en/g/hide-and-smash",
         "desc": ".io Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
       {
         "gameType":"pk",
@@ -817,7 +914,8 @@
         "category": "Action Games",
         "gameURL": "https://poki.com/en/g/tribals-io",
         "desc": ".io Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
       {
         "gameType":"pk",
@@ -826,7 +924,8 @@
         "category": "Action Games",
         "gameURL": "https://poki.com/en/g/venge-io",
         "desc": ".io Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
       {
         "gameType":"pk",
@@ -835,7 +934,8 @@
         "category": "Action Games",
         "gameURL": "https://poki.com/en/g/pinturillo-2",
         "desc": ".io Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
       {
         "gameType":"pk",
@@ -844,7 +944,8 @@
         "category": "Action Games",
         "gameURL": "https://poki.com/en/g/thunderdogs-io",
         "desc": ".io Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
       {
         "gameType":"pk",
@@ -853,7 +954,8 @@
         "category": "Action Games",
         "gameURL": "https://poki.com/en/g/golfparty-io",
         "desc": ".io Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
       {
         "gameType":"pk",
@@ -862,7 +964,8 @@
         "category": "Action Games",
         "gameURL": "https://poki.com/en/g/narrow-one",
         "desc": ".io Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
       {
         "gameType":"pk",
@@ -871,7 +974,8 @@
         "category": "Action Games",
         "gameURL": "https://poki.com/en/g/simplyupio",
         "desc": ".io Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
       {
         "gameType":"pk",
@@ -880,7 +984,8 @@
         "category": "Action Games",
         "gameURL": "https://poki.com/en/g/zoodrop",
         "desc": ".io Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
       {
         "gameType":"pk",
@@ -889,10 +994,11 @@
         "category": "Action Games",
         "gameURL": "https://poki.com/en/g/ninja-io",
         "desc": ".io Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
-      
-      
+
+
       {
         "gameType":"cz",
         "gameName": "8-Ball-Billiards-Classic",
@@ -900,7 +1006,8 @@
         "category": "2 Players Games",
         "gameURL": "https://www.crazygames.com/game/8-ball-billiards-classic",
         "desc": "2 Players Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Billiards-Pool-8",
@@ -908,7 +1015,8 @@
         "category": "2 Players Games",
         "gameURL": "https://www.crazygames.com/game/billiards-pool-8",
         "desc": "2 Players Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Bomb-It-5",
@@ -916,7 +1024,8 @@
         "category": "2 Players Games",
         "gameURL": "https://www.crazygames.com/game/bomb-it-5",
         "desc": "2 Players Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Crazy-Roll-3d",
@@ -924,7 +1033,8 @@
         "category": "2 Players Games",
         "gameURL": "https://www.crazygames.com/game/crazy-roll-3d",
         "desc": "2 Players Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Volley-Random",
@@ -932,10 +1042,11 @@
         "category": "2 Players Games",
         "gameURL": "https://www.crazygames.com/game/volley-random",
         "desc": "2 Players Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
-      
-      
+
+
       {
         "gameType":"cz",
         "gameName": "Capybara-Clicker",
@@ -943,7 +1054,8 @@
         "category": "Clickers Games",
         "gameURL": "https://www.crazygames.com/game/capybara-clicker",
         "desc": "Clickers Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Fish-Merge-frvr",
@@ -951,7 +1063,8 @@
         "category": "Clickers Games",
         "gameURL": "https://www.crazygames.com/game/fish-merge-frvr",
         "desc": "Clickers Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Idle-Pet-Business",
@@ -959,7 +1072,8 @@
         "category": "Clickers Games",
         "gameURL": "https://www.crazygames.com/game/idle-pet-business",
         "desc": "Clickers Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Idle-Pinball-Breakout",
@@ -967,7 +1081,8 @@
         "category": "Clickers Games",
         "gameURL": "https://www.crazygames.com/game/idle-pinball-breakout",
         "desc": "Clickers Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Mineclicker",
@@ -975,10 +1090,11 @@
         "category": "Clickers Games",
         "gameURL": "https://www.crazygames.com/game/mineclicker",
         "desc": "Clickers Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
-      
-      
+
+
      {
         "gameType":"cz",
         "gameName": "Herobrine-Vs-Monster-School",
@@ -986,10 +1102,11 @@
         "category": "MineCraft Games",
         "gameURL": "https://www.crazygames.com/game/herobrine-vs-monster-school",
         "desc": "MineCraft Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
-      
-      
+
+
       {
         "gameType":"cz",
         "gameName": "8-Ball-Pool",
@@ -997,7 +1114,8 @@
         "category": "Sports Game",
         "gameURL": "https://www.crazygames.com/game/8-ball-pool",
         "desc": "Sports Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Archery-Master",
@@ -1005,7 +1123,8 @@
         "category": "Sports Game",
         "gameURL": "https://www.crazygames.com/game/archery-master",
         "desc": "Sports Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Boxing-Random",
@@ -1013,7 +1132,8 @@
         "category": "Sports Game",
         "gameURL": "https://www.crazygames.com/game/boxing-random",
         "desc": "Sports Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Cricket-frvr",
@@ -1021,7 +1141,8 @@
         "category": "Sports Game",
         "gameURL": "https://www.crazygames.com/game/cricket-frvr",
         "desc": "Sports Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Goalkeeper-Champ",
@@ -1029,7 +1150,8 @@
         "category": "Sports Game",
         "gameURL": "https://www.crazygames.com/game/goalkeeper-champ",
         "desc": "Sports Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Goalkeeper-Wiz",
@@ -1037,7 +1159,8 @@
         "category": "Sports Game",
         "gameURL": "https://www.crazygames.com/game/goalkeeper-wiz",
         "desc": "Sports Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Soccer-Random",
@@ -1045,7 +1168,8 @@
         "category": "Sports Game",
         "gameURL": "https://www.crazygames.com/game/soccer-random",
         "desc": "Sports Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Table-Tennis-World-Tour",
@@ -1053,10 +1177,11 @@
         "category": "Sports Game",
         "gameURL": "https://www.crazygames.com/game/table-tennis-world-tour",
         "desc": "Sports Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
-      
-      
+
+
       {
         "gameType":"cz",
         "gameName": "Baby-Dress-Up",
@@ -1064,7 +1189,8 @@
         "category": "Baby Games",
         "gameURL": "https://www.crazygames.com/game/baby-dress-up",
         "desc": "Baby Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Candy-Hair-Salon--Doll-Games",
@@ -1072,7 +1198,8 @@
         "category": "Baby Games",
         "gameURL": "https://www.crazygames.com/game/candy-hair-salon---doll-games",
         "desc": "Baby Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Chibi-Doll-Dress-Up-Coloring",
@@ -1080,7 +1207,8 @@
         "category": "Baby Games",
         "gameURL": "https://www.crazygames.com/game/chibi-doll-dress-up-coloring",
         "desc": "Baby Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"pk",
         "gameName": "Cozy-Room-Design",
@@ -1088,7 +1216,8 @@
         "category": "Baby Games",
         "gameURL": "https://poki.com/en/g/cozy-room-design",
         "desc": "Baby Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
       {
         "gameType":"pk",
@@ -1097,7 +1226,8 @@
         "category": "Baby Games",
         "gameURL": "https://poki.com/en/g/mermaid-dress-up",
         "desc": "Baby Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
       {
         "gameType":"pk",
@@ -1106,7 +1236,8 @@
         "category": "Baby Games",
         "gameURL": "https://poki.com/en/g/feets-doctor-urgent-care",
         "desc": "Baby Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
       {
         "gameType":"pk",
@@ -1115,7 +1246,8 @@
         "category": "Baby Games",
         "gameURL": "https://poki.com/en/g/twins-adventures-attic-surprise",
         "desc": "Baby Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
       {
         "gameType":"pk",
@@ -1124,10 +1256,11 @@
         "category": "Baby Games",
         "gameURL": "https://poki.com/en/g/dungeons-dressups",
         "desc": "Baby Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
-      
-      
+
+
       {
         "gameType":"cz",
         "gameName": "2048",
@@ -1135,7 +1268,8 @@
         "category": "Brain Games",
         "gameURL": "https://www.crazygames.com/game/2048",
         "desc": "Brain Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "2048-Merge",
@@ -1143,7 +1277,8 @@
         "category": "Brain Games",
         "gameURL": "https://www.crazygames.com/game/2048-merge",
         "desc": "Brain Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Braindom-2-Who-Is-Lying",
@@ -1151,7 +1286,8 @@
         "category": "Brain Games",
         "gameURL": "https://www.crazygames.com/game/braindom-2-who-is-lying",
         "desc": "Brain Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Brain-Teaser",
@@ -1159,7 +1295,8 @@
         "category": "Brain Games",
         "gameURL": "https://www.crazygames.com/game/brain-teaser",
         "desc": "Brain Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Brain-Trainer",
@@ -1167,7 +1304,8 @@
         "category": "Brain Games",
         "gameURL": "https://www.crazygames.com/game/brain-trainer",
         "desc": "Brain Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "EI-Soul",
@@ -1175,7 +1313,8 @@
         "category": "Brain Games",
         "gameURL": "https://www.crazygames.com/game/ei-soul",
         "desc": "Brain Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Heart-Box",
@@ -1183,7 +1322,8 @@
         "category": "Brain Games",
         "gameURL": "https://www.crazygames.com/game/heart-box",
         "desc": "Brain Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Hexa-Blast-Game",
@@ -1191,7 +1331,8 @@
         "category": "Brain Games",
         "gameURL": "https://www.crazygames.com/game/hexa-blast-game",
         "desc": "Brain Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Math-Push",
@@ -1199,7 +1340,8 @@
         "category": "Brain Games",
         "gameURL": "https://www.crazygames.com/game/math-push",
         "desc": "Brain Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Stack-It",
@@ -1207,7 +1349,8 @@
         "category": "Brain Games",
         "gameURL": "https://www.crazygames.com/game/stack-it",
         "desc": "Brain Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Sudoku-Game",
@@ -1215,7 +1358,8 @@
         "category": "Brain Games",
         "gameURL": "https://www.crazygames.com/game/sudoku-game",
         "desc": "Brain Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"cz",
         "gameName": "Word-Swipe-uwf",
@@ -1223,7 +1367,8 @@
         "category": "Brain Games",
         "gameURL": "https://www.crazygames.com/game/word-swipe-uwf",
         "desc": "Brain Games",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"pk",
         "gameName": "Arithmetica",
@@ -1231,7 +1376,8 @@
         "category": "Brain Games",
         "gameURL": "https://poki.com/en/g/arithmetica",
         "desc": "Brain And Maths Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },
       {
         "gameType":"pk",
@@ -1240,7 +1386,8 @@
         "category": "Brain Games",
         "gameURL": "https://poki.com/en/g/math-trivia-live",
         "desc": "Brain And Maths Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"pk",
         "gameName": "Sudoku",
@@ -1248,7 +1395,8 @@
         "category": "Brain Games",
         "gameURL": "https://poki.com/en/g/sudoku",
         "desc": "Brain And Maths Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"pk",
         "gameName": "Math-Mahjong-Relax",
@@ -1256,7 +1404,8 @@
         "category": "Brain Games",
         "gameURL": "https://poki.com/en/g/math-mahjong-relax",
         "desc": "Brain And Maths Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"pk",
         "gameName": "Numbers",
@@ -1264,7 +1413,8 @@
         "category": "Brain Games",
         "gameURL": "https://poki.com/en/g/numbers",
         "desc": "Brain And Maths Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"pk",
         "gameName": "Line-Up-Dots",
@@ -1272,7 +1422,8 @@
         "category": "Brain Games",
         "gameURL": "https://poki.com/en/g/line-up-dots",
         "desc": "Brain And Maths Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"pk",
         "gameName": "Ultimate-Sudoku",
@@ -1280,7 +1431,8 @@
         "category": "Brain Games",
         "gameURL": "https://poki.com/en/g/ultimate-sudoku",
         "desc": "Brain And Maths Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       },{
         "gameType":"pk",
         "gameName": "Merge-The-Numbers",
@@ -1288,7 +1440,8 @@
         "category": "Brain Games",
         "gameURL": "https://poki.com/en/g/merge-the-numbers",
         "desc": "Brain And Maths Game",
-        "isNew": false
+        "isNew": false,
+        "isPortrait":false
       }
             ]
 }
