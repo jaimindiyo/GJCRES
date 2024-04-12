@@ -2,43 +2,43 @@
 "data":[
   {
         "catName":"Puzzle Games",
-        "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto"
+        "catImage": "https://scontent.fstv8-1.fna.fbcdn.net/v/t39.30808-6/310660722_134991622619838_4670049620912454767_n.png?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=XYzAQBR5ftMAb4hJojX&_nc_ht=scontent.fstv8-1.fna&oh=00_AfDpFM_6RNMZJIthHmj79B8TOOOKFycH9ZK0NIXN5NHT5g&oe=661EEC3D"
   },
 {
         "catName":"Casual Games",
-        "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto"
+        "catImage": "https://cdn.dribbble.com/users/2178167/screenshots/4917765/media/17d7e31107091877183cdcb17c691c77.png"
   },
 {
         "catName":"Sports Game",
-        "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto"
+        "catImage": "https://elements-cover-images-0.imgix.net/dc5cb8bf-3c3e-49f1-9b0e-b23fa1659ee5?auto=compress%2Cformat&w=710&fit=max&s=cd6be7baab700896023d86fdde337b7d"
   },
 {
         "catName":"Our Special",
-        "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto"
+        "catImage": "https://img.global.news.samsung.com/za/wp-content/uploads/2022/11/OPYG-LOGO.jpg"
   },
 {
         "catName":"Action Games",
-        "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto"
+        "catImage": "https://cdn.vectorstock.com/i/1000x1000/81/91/action-game-icon-simple-element-from-vector-33118191.webp"
   },
 {
         "catName":"Beauty Games",
-        "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto"
+        "catImage": "https://images-platform.99static.com/Zwoc-LU3sATIALPH6-PMgQt8Fww=/500x500/top/smart/99designs-contests-attachments/3/3444/attachment_3444091"
   },
 {
         "catName":"MineCraft Games",
-        "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto"
+        "catImage": "https://scontent.fstv8-2.fna.fbcdn.net/v/t1.18169-9/13906678_1190930247624318_2294238713218445516_n.png?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=U7ZDRKsMAEYAb6xZ5HK&_nc_ht=scontent.fstv8-2.fna&oh=00_AfClaOrdhOCYgIRpoEX36CxYQhUaWOk_cPKF4nG16VLksA&oe=66409575"
   },
 {
         "catName":"Clickers Games",
-        "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto"
+        "catImage": "https://m.gjcdn.net/game-screenshot/200/17651065-dvcavfnt-v4.webp"
   },
 {
         "catName":"Baby Games",
-        "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto"
+        "catImage": "https://img.freepik.com/premium-vector/baby-game_501790-80.jpg?w=740"
   },
 {
         "catName":"Brain Games",
-        "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto"
+        "catImage": "https://literacyrochester.org/wp-content/uploads/2021/10/Logo-300x228.png"
   }
 
 ]
