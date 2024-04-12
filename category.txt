@@ -39,6 +39,10 @@
 {
         "catName":"Brain Games",
         "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto"
+  },
+{
+        "catName":"Jemin Games",
+        "catImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto"
   }
 
 ]
