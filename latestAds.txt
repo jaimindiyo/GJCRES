@@ -18,7 +18,7 @@
     "appOpenVisible":false,
     "googleNativeVisible":true,
     "googleHomeNativeVisible":true,
-    "googlePopularNativeVisible":false,
+    "googlePopularNativeVisible":true,
     "googleCategoryNativeVisible":false,
     "googleBannerVisible":true,
     "googleHomeBannerVisible":false,
@@ -37,5 +37,5 @@
     "fbNativeId":"781695596741559_781699926741126",
     "fbInterId":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "extraInter":false,
-    "botNaviIndex":1
+    "botNaviIndex":0
 }
