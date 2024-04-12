@@ -17,7 +17,7 @@
     "isUpdateApp":false,
     "appOpenVisible":false,
     "googleNativeVisible":true,
-    "googleHomeNativeVisible":false,
+    "googleHomeNativeVisible":true,
     "googlePopularNativeVisible":false,
     "googleCategoryNativeVisible":false,
     "googleBannerVisible":true,
