@@ -4,11 +4,21 @@
         "gameType":"cz",
         "gameName": "Bubble-Blast-Pwd",
         "gameImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Jemin Games",
+        "gameURL": "https://www.crazygames.com/game/bubble-blast-pwd",
+        "desc": "Casual Games",
+        "isNew": false
+      },
+{
+        "gameType":"cz",
+        "gameName": "Bubble-Blast-Pwd",
+        "gameImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
         "category": "Casual Games",
         "gameURL": "https://www.crazygames.com/game/bubble-blast-pwd",
         "desc": "Casual Games",
         "isNew": false
-      },{
+      },
+{
         "gameType":"cz",
         "gameName": "Chess-Online-Multiplayer-Game",
         "gameImage": "https://images.crazygames.com/chess-online-multiplayer-game/20221128113100/chess-online-multiplayer-game-cover?quality=100,width=200,height=200,fit=cover,f=auto",
