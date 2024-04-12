@@ -19,6 +19,7 @@
     "googleNativeVisible":false,
     "googleHomeNativeVisible":false,
     "googlePopularNativeVisible":false,
+    "googleCategoryNativeVisible":false,
     "googleBannerVisible":true,
     "googleHomeBannerVisible":false,
     "googleInterVisible":true,
