@@ -36,7 +36,7 @@
     "fbBannerId":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "fbNativeId":"781695596741559_781699926741126",
     "fbInterId":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "extraInter":false,
+    "extraInter":true,
     "webError":"Uncaught SyntaxError",
-    "botNaviIndex":0
+    "botNaviIndex":2
 }
