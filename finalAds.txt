@@ -43,6 +43,6 @@
     "googleIntroNativeVisible":true,
     "googleIntroInterVisible":true,
     "adUrl":"https://8831.play.gamezop.com/",
-    "showAdSense":true,
+    "showAdSense":false,
     "inAppAppOpenVisible":true
 }
