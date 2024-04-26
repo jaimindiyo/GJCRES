@@ -8,6 +8,7 @@
     "googleHomeNativeId":"ca-app-pub-8086793414119508/9800135608",
     "googleCategoryNativeId":"ca-app-pub-8086793414119508/8436434117",
     "googlePopularNativeId":"ca-app-pub-8086793414119508/9206590308",
+    "googleIntroNativeId":"ca-app-pub-8086793414119508/9206590308",
     "googleBannerId":"ca-app-pub-8086793414119508/8991484808----",
     "googleHomeBannerId":"ca-app-pub-8086793414119508/9274863323---",
     "googleAppOpenAd":"ca-app-pub-8086793414119508/8153353344",
