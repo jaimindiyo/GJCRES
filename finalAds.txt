@@ -47,5 +47,5 @@
     "showAdSense":false,
     "inAppAppOpenVisible":true,
     "playNowLoaderTime":0,
-    "isNativeBorder":true
+    "isNativeBorder":false
 }
