@@ -24,7 +24,7 @@
     "googleBannerVisible":false,
     "googleHomeBannerVisible":false,
     "googleInterVisible":true,
-    "splashInterVisible":false,
+    "splashInterVisible":true,
     "interTimeIntervalInSec":2,
     "isBackAdd":true,
     "toBeClicked":1,
