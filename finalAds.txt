@@ -45,5 +45,6 @@
     "adUrl":"https://8831.play.gamezop.com/",
     "showAdSense":false,
     "inAppAppOpenVisible":true,
-    "playNowLoaderTime":0
+    "playNowLoaderTime":0,
+    "isNativeBorder":true
 }
