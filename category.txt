@@ -2,7 +2,7 @@
 "data":[
   {
         "catName":"Puzzle Games",
-        "catImage": "https://scontent.fstv8-1.fna.fbcdn.net/v/t39.30808-6/310660722_134991622619838_4670049620912454767_n.png?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=XYzAQBR5ftMAb4hJojX&_nc_ht=scontent.fstv8-1.fna&oh=00_AfDpFM_6RNMZJIthHmj79B8TOOOKFycH9ZK0NIXN5NHT5g&oe=661EEC3D"
+        "catImage": "https://scontent.fstv8-1.fna.fbcdn.net/v/t39.30808-1/310660722_134991622619838_4670049620912454767_n.png?stp=dst-png_p200x200&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=wG2PNHoa9dIQ7kNvgG2y__u&_nc_ht=scontent.fstv8-1.fna&oh=00_AfAqRvCF8hyVPvuGIgnm0QUlqkmKL-vuN4x_ZVJLgHYWkQ&oe=66315E3B"
   },
 {
         "catName":"Casual Games",
