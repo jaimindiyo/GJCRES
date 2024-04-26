@@ -40,8 +40,8 @@
     "webError":"Uncaught SyntaxError",
     "botNaviIndex":0,
     "isIntro":true,
-    "googleIntroNativeVisible":false,
-    "googleIntroInterVisible":false,
+    "googleIntroNativeVisible":true,
+    "googleIntroInterVisible":true,
     "adUrl":"https://8831.play.gamezop.com/",
     "showAdSense":true,
     "inAppAppOpenVisible":true
