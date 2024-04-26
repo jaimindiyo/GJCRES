@@ -2,7 +2,7 @@
     "latestVersion":"1.0.7",
     "adType":"google",
     "appUrl":"https://play.google.com/store/apps/details?id=com.games.allpopulargames",
-    "showAd":true,
+    "showAd":false,
     "privacyUrl":"https://pramukhblack.blogspot.com/2024/03/privacy-policy.html",
     "googleNativeId":"ca-app-pub-8086793414119508/4868682632",
     "googleHomeNativeId":"ca-app-pub-8086793414119508/9800135608",
