@@ -25,7 +25,7 @@
     "googleHomeBannerVisible":false,
     "googleInterVisible":true,
     "splashInterVisible":false,
-    "interTimeIntervalInSec":2,
+    "interTimeIntervalInSec":20,
     "isBackAdd":true,
     "toBeClicked":1,
     "playNowClick":"._oaA25NgnD27qRa7gZZ3",
