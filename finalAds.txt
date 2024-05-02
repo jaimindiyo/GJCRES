@@ -39,7 +39,7 @@
     "extraInter":true,
     "webError":"Uncaught SyntaxError",
     "botNaviIndex":2,
-    "isIntro":true,
+    "isIntro":false,
     "googleIntroNativeVisible":true,
     "googleIntroInterVisible":true,
     "adUrl":"https://8831.play.gamezop.com/",
