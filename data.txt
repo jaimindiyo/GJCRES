@@ -1,1447 +1,1447 @@
 {
-    "data": [
+"data": [
 
 {
-        "gameType":"cz",
-        "gameName": "Bubble-Blast-Pwd",
-        "gameImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Casual Games",
-        "gameURL": "https://www.crazygames.com/game/bubble-blast-pwd",
-        "desc": "Casual Games",
-        "isNew": false,
-        "isPortrait":false
-      },
+"gameType":"cz",
+"gameName": "Bubble-Blast-Pwd",
+"gameImage": "https://images.crazygames.com/bubble-blast-pwd_16x9/20231211104427/bubble-blast-pwd_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Casual Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Casual Games",
+"isNew": false,
+"isPortrait":false
+},
 {
-        "gameType":"cz",
-        "gameName": "Chess-Online-Multiplayer-Game",
-        "gameImage": "https://images.crazygames.com/chess-online-multiplayer-game/20221128113100/chess-online-multiplayer-game-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Casual Games",
-        "gameURL": "https://www.crazygames.com/game/chess-online-multiplayer-game",
-        "desc": "Casual Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "City-Takeover",
-        "gameImage": "https://images.crazygames.com/games/city-takeover/cover_16x9-1699349410155.png?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Casual Games",
-        "gameURL": "https://www.crazygames.com/game/city-takeover",
-        "desc": "Casual Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Draw-Crash-Race",
-        "gameImage": "https://images.crazygames.com/draw-crash-race/20230623071849/draw-crash-race-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Casual Games",
-        "gameURL": "https://www.crazygames.com/game/draw-crash-race",
-        "desc": "Casual Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Drift-Boss",
-        "gameImage": "https://images.crazygames.com/games/drift-boss/cover-1626884625264.png?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Casual Games",
-        "gameURL": "https://www.crazygames.com/game/drift-boss",
-        "desc": "Casual Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Fishland",
-        "gameImage": "https://images.crazygames.com/fishland_16x9/20231206102213/fishland_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Casual Games",
-        "gameURL": "https://www.crazygames.com/game/fishland",
-        "desc": "Casual Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Giant-Rush",
-        "gameImage": "https://images.crazygames.com/giant-rush_16x9/20231204150701/giant-rush_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Casual Games",
-        "gameURL": "https://www.crazygames.com/game/giant-rush",
-        "desc": "Casual Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Helix-Jump",
-        "gameImage": "https://images.crazygames.com/helix-jump/20220519091317/helix-jump-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Casual Games",
-        "gameURL": "https://www.crazygames.com/game/helix-jump",
-        "desc": "Casual Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Home-Flip",
-        "gameImage": "https://images.crazygames.com/home-flip_16x9/20231004111234/home-flip_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Casual Games",
-        "gameURL": "https://www.crazygames.com/game/home-flip",
-        "desc": "Casual Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Jailbreak-Hide-Or-Attack",
-        "gameImage": "https://images.crazygames.com/jailbreak-hide-or-attack_16x9/20231025040559/jailbreak-hide-or-attack_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Casual Games",
-        "gameURL": "https://www.crazygames.com/game/jailbreak-hide-or-attack",
-        "desc": "Casual Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Jet-Rush",
-        "gameImage": "https://images.crazygames.com/games/jet-rush/cover-1663772569110.png?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Casual Games",
-        "gameURL": "https://www.crazygames.com/game/jet-rush",
-        "desc": "Casual Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Man-Runner-2048",
-        "gameImage": "https://images.crazygames.com/man-runner-2048_16x9/20230928182211/man-runner-2048_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Casual Games",
-        "gameURL": "https://www.crazygames.com/game/man-runner-2048",
-        "desc": "Casual Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Master-Chess",
-        "gameImage": "https://images.crazygames.com/games/master-chess/cover-1624894080822.png?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Casual Games",
-        "gameURL": "https://www.crazygames.com/game/master-chess",
-        "desc": "Casual Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Merge-Fruits",
-        "gameImage": "https://images.crazygames.com/merge-fruits_16x9/20231206083411/merge-fruits_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Casual Games",
-        "gameURL": "https://www.crazygames.com/game/merge-fruits",
-        "desc": "Casual Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Obstacle Race Destroying Simulator",
-        "gameImage": "https://images.crazygames.com/obstacle-race-destroying-simulator_16x9/20231122094756/obstacle-race-destroying-simulator_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Casual Games",
-        "gameURL": "https://www.crazygames.com/game/obstacle-race-destroying-simulator",
-        "desc": "Casual Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Office-Fight",
-        "gameImage": "https://images.crazygames.com/office-fight_16x9/20231207090131/office-fight_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Casual Games",
-        "gameURL": "https://www.crazygames.com/game/office-fight",
-        "desc": "Casual Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Square-Bird",
-        "gameImage": "https://images.crazygames.com/square-bird/20200824184016/square-bird-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Casual Games",
-        "gameURL": "https://www.crazygames.com/game/square-bird",
-        "desc": "Casual Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Squishy-Fruits",
-        "gameImage": "https://images.crazygames.com/squishy-fruits_16x9/20231207084058/squishy-fruits_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Casual Games",
-        "gameURL": "https://www.crazygames.com/game/squishy-fruits",
-        "desc": "Casual Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Teeth-Runner",
-        "gameImage": "https://images.crazygames.com/teeth-runner_16x9/20231129025606/teeth-runner_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Casual Games",
-        "gameURL": "https://www.crazygames.com/game/teeth-runner",
-        "desc": "Casual Games",
-        "isNew": false,
-        "isPortrait":false
-      },
+"gameType":"cz",
+"gameName": "Chess-Online-Multiplayer-Game",
+"gameImage": "https://images.crazygames.com/chess-online-multiplayer-game/20221128113100/chess-online-multiplayer-game-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Casual Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Casual Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "City-Takeover",
+"gameImage": "https://images.crazygames.com/games/city-takeover/cover_16x9-1699349410155.png?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Casual Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Casual Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Draw-Crash-Race",
+"gameImage": "https://images.crazygames.com/draw-crash-race/20230623071849/draw-crash-race-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Casual Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Casual Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Drift-Boss",
+"gameImage": "https://images.crazygames.com/games/drift-boss/cover-1626884625264.png?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Casual Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Casual Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Fishland",
+"gameImage": "https://images.crazygames.com/fishland_16x9/20231206102213/fishland_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Casual Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Casual Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Giant-Rush",
+"gameImage": "https://images.crazygames.com/giant-rush_16x9/20231204150701/giant-rush_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Casual Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Casual Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Helix-Jump",
+"gameImage": "https://images.crazygames.com/helix-jump/20220519091317/helix-jump-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Casual Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Casual Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Home-Flip",
+"gameImage": "https://images.crazygames.com/home-flip_16x9/20231004111234/home-flip_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Casual Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Casual Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Jailbreak-Hide-Or-Attack",
+"gameImage": "https://images.crazygames.com/jailbreak-hide-or-attack_16x9/20231025040559/jailbreak-hide-or-attack_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Casual Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Casual Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Jet-Rush",
+"gameImage": "https://images.crazygames.com/games/jet-rush/cover-1663772569110.png?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Casual Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Casual Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Man-Runner-2048",
+"gameImage": "https://images.crazygames.com/man-runner-2048_16x9/20230928182211/man-runner-2048_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Casual Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Casual Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Master-Chess",
+"gameImage": "https://images.crazygames.com/games/master-chess/cover-1624894080822.png?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Casual Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Casual Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Merge-Fruits",
+"gameImage": "https://images.crazygames.com/merge-fruits_16x9/20231206083411/merge-fruits_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Casual Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Casual Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Obstacle Race Destroying Simulator",
+"gameImage": "https://images.crazygames.com/obstacle-race-destroying-simulator_16x9/20231122094756/obstacle-race-destroying-simulator_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Casual Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Casual Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Office-Fight",
+"gameImage": "https://images.crazygames.com/office-fight_16x9/20231207090131/office-fight_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Casual Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Casual Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Square-Bird",
+"gameImage": "https://images.crazygames.com/square-bird/20200824184016/square-bird-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Casual Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Casual Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Squishy-Fruits",
+"gameImage": "https://images.crazygames.com/squishy-fruits_16x9/20231207084058/squishy-fruits_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Casual Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Casual Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Teeth-Runner",
+"gameImage": "https://images.crazygames.com/teeth-runner_16x9/20231129025606/teeth-runner_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Casual Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Casual Games",
+"isNew": false,
+"isPortrait":false
+},
 
 
-      {
-        "gameType":"cz",
-        "gameName": "Block-Champ",
-        "gameImage": "https://images.crazygames.com/block-champ/20230718091523/block-champ-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Puzzle Games",
-        "gameURL": "https://www.crazygames.com/game/block-champ",
-        "desc": "Puzzle Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Butterfly-Shimai",
-        "gameImage": "https://images.crazygames.com/butterfly-shimai/20230714171358/butterfly-shimai-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Puzzle Games",
-        "gameURL": "https://www.crazygames.com/game/butterfly-shimai",
-        "desc": "Puzzle Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Cups--Water-Sort-Puzzle",
-        "gameImage": "https://images.crazygames.com/cups---water-sort-puzzle_16x9/20230829022932/cups---water-sort-puzzle_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Puzzle Games",
-        "gameURL": "https://www.crazygames.com/game/cups---water-sort-puzzle",
-        "desc": "Puzzle Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Favorite-Puzzles",
-        "gameImage": "https://images.crazygames.com/favorite-puzzles_16x9/20230828102131/favorite-puzzles_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Puzzle Games",
-        "gameURL": "https://www.crazygames.com/game/favorite-puzzles",
-        "desc": "Puzzle Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Ludo-Hero",
-        "gameImage": "https://images.crazygames.com/ludo-king_16x9/20231018093802/ludo-king_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Puzzle Games",
-        "gameURL": "https://www.crazygames.com/game/ludo-hero",
-        "desc": "Puzzle Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Match-Arena",
-        "gameImage": "https://images.crazygames.com/games/match-arena/cover-1666877691339.png?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Puzzle Games",
-        "gameURL": "https://www.crazygames.com/game/match-arena",
-        "desc": "Puzzle Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Onet-Connect-Classic",
-        "gameImage": "https://images.crazygames.com/onet-connect-classic/20221031124049/onet-connect-classic-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Puzzle Games",
-        "gameURL": "https://www.crazygames.com/game/onet-connect-classic",
-        "desc": "Puzzle Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Pipes-The-Puzzle",
-        "gameImage": "https://images.crazygames.com/pipes-the-puzzle/20230208034311/pipes-the-puzzle-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Puzzle Games",
-        "gameURL": "https://www.crazygames.com/game/pipes-the-puzzle",
-        "desc": "Puzzle Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Rope-Color-Sort-3d",
-        "gameImage": "https://images.crazygames.com/rope-color-sort-3d/20230405164311/rope-color-sort-3d-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Puzzle Games",
-        "gameURL": "https://www.crazygames.com/game/rope-color-sort-3d",
-        "desc": "Puzzle Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Sandtrix",
-        "gameImage": "https://images.crazygames.com/sandtrix_16x9/20231116070723/sandtrix_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Puzzle Games",
-        "gameURL": "https://www.crazygames.com/game/sandtrix",
-        "desc": "Puzzle Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Skydom-Reforged",
-        "gameImage": "https://images.crazygames.com/skydom-reforged/20221108174536/skydom-reforged-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Puzzle Games",
-        "gameURL": "https://www.crazygames.com/game/skydom-reforged",
-        "desc": "Puzzle Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Tic-Tac-Toe",
-        "gameImage": "https://images.crazygames.com/games/tic-tac-toe/thumb-1579168809142.png?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Puzzle Games",
-        "gameURL": "https://www.crazygames.com/game/tic-tac-toe",
-        "desc": "Puzzle Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Tower-Swap",
-        "gameImage": "https://images.crazygames.com/tower-swap_16x9/20231010024249/tower-swap_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Puzzle Games",
-        "gameURL": "https://www.crazygames.com/game/tower-swap",
-        "desc": "Puzzle Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Wood-Block-Journey",
-        "gameImage": "https://images.crazygames.com/wood-block-journey_16x9/20230907100852/wood-block-journey_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Puzzle Games",
-        "gameURL": "https://www.crazygames.com/game/wood-block-journey",
-        "desc": "Puzzle Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Words-Of-Wonders",
-        "gameImage": "https://images.crazygames.com/words-of-wonders_16x9/20231019163757/words-of-wonders_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Puzzle Games",
-        "gameURL": "https://www.crazygames.com/game/words-of-wonders",
-        "desc": "Puzzle Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Word-Wipe",
-        "gameImage": "https://images.crazygames.com/word-wipe/20230720183725/word-wipe-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Puzzle Games",
-        "gameURL": "https://www.crazygames.com/game/word-wipe",
-        "desc": "Puzzle Games",
-        "isNew": false,
-        "isPortrait":false
-      },
+{
+"gameType":"cz",
+"gameName": "Block-Champ",
+"gameImage": "https://images.crazygames.com/block-champ/20230718091523/block-champ-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Puzzle Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Puzzle Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Butterfly-Shimai",
+"gameImage": "https://images.crazygames.com/butterfly-shimai/20230714171358/butterfly-shimai-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Puzzle Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Puzzle Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Cups--Water-Sort-Puzzle",
+"gameImage": "https://images.crazygames.com/cups---water-sort-puzzle_16x9/20230829022932/cups---water-sort-puzzle_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Puzzle Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Puzzle Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Favorite-Puzzles",
+"gameImage": "https://images.crazygames.com/favorite-puzzles_16x9/20230828102131/favorite-puzzles_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Puzzle Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Puzzle Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Ludo-Hero",
+"gameImage": "https://images.crazygames.com/ludo-king_16x9/20231018093802/ludo-king_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Puzzle Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Puzzle Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Match-Arena",
+"gameImage": "https://images.crazygames.com/games/match-arena/cover-1666877691339.png?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Puzzle Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Puzzle Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Onet-Connect-Classic",
+"gameImage": "https://images.crazygames.com/onet-connect-classic/20221031124049/onet-connect-classic-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Puzzle Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Puzzle Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Pipes-The-Puzzle",
+"gameImage": "https://images.crazygames.com/pipes-the-puzzle/20230208034311/pipes-the-puzzle-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Puzzle Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Puzzle Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Rope-Color-Sort-3d",
+"gameImage": "https://images.crazygames.com/rope-color-sort-3d/20230405164311/rope-color-sort-3d-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Puzzle Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Puzzle Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Sandtrix",
+"gameImage": "https://images.crazygames.com/sandtrix_16x9/20231116070723/sandtrix_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Puzzle Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Puzzle Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Skydom-Reforged",
+"gameImage": "https://images.crazygames.com/skydom-reforged/20221108174536/skydom-reforged-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Puzzle Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Puzzle Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Tic-Tac-Toe",
+"gameImage": "https://images.crazygames.com/games/tic-tac-toe/thumb-1579168809142.png?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Puzzle Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Puzzle Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Tower-Swap",
+"gameImage": "https://images.crazygames.com/tower-swap_16x9/20231010024249/tower-swap_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Puzzle Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Puzzle Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Wood-Block-Journey",
+"gameImage": "https://images.crazygames.com/wood-block-journey_16x9/20230907100852/wood-block-journey_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Puzzle Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Puzzle Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Words-Of-Wonders",
+"gameImage": "https://images.crazygames.com/words-of-wonders_16x9/20231019163757/words-of-wonders_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Puzzle Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Puzzle Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Word-Wipe",
+"gameImage": "https://images.crazygames.com/word-wipe/20230720183725/word-wipe-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Puzzle Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Puzzle Games",
+"isNew": false,
+"isPortrait":false
+},
 
 
-      {
-        "gameType":"pk",
-        "gameName": "Subway Sufers",
-        "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/81a0a3f18cf0ee129e56edb50fc52c3b.png",
-        "category": "Popular Games",
-        "gameURL": "https://poki.com/en/g/subway-surfers",
-        "desc": "Trending Games",
-        "isNew": true
+{
+"gameType":"pk",
+"gameName": "Subway Sufers",
+"gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/81a0a3f18cf0ee129e56edb50fc52c3b.png",
+"category": "Popular Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Trending Games",
+"isNew": true
 ,
-          "isPortrait":false},{
-            "gameType":"pk",
-            "gameName": "Temple Run 2",
-            "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/f4b3ac7fe25cad9bc028b33f7a407f28.png",
-            "category": "Popular Games",
-            "gameURL": "https://poki.com/en/g/temple-run-2",
-            "desc": "Trending Games",
-            "isNew": true
+"isPortrait":false},{
+"gameType":"pk",
+"gameName": "Temple Run 2",
+"gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/f4b3ac7fe25cad9bc028b33f7a407f28.png",
+"category": "Popular Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Trending Games",
+"isNew": true
 ,
-          "isPortrait":false},{
-        "gameType":"pk",
-        "gameName": "Sushi-Party-io",
-        "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/e327f46027899af3e9573ef51450bb54.png",
-        "category": "Popular Games",
-        "gameURL": "https://poki.com/en/g/sushi-party-io",
-        "desc": "Trending Games",
-        "isNew": true
+"isPortrait":false},{
+"gameType":"pk",
+"gameName": "Sushi-Party-io",
+"gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/e327f46027899af3e9573ef51450bb54.png",
+"category": "Popular Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Trending Games",
+"isNew": true
 ,
-          "isPortrait":false},{
-            "gameType":"pk",
-            "gameName": "Water-Color-Sort",
-            "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/bea9b33040f3776e709fbe8c6e23c623.png",
-            "category": "Popular Games",
-            "gameURL": "https://poki.com/en/g/water-color-sort",
-            "desc": "Trending Games",
-            "isNew": true
+"isPortrait":false},{
+"gameType":"pk",
+"gameName": "Water-Color-Sort",
+"gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/bea9b33040f3776e709fbe8c6e23c623.png",
+"category": "Popular Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Trending Games",
+"isNew": true
 ,
-          "isPortrait":false},{
-            "gameType":"pk",
-            "gameName": "Word-City-Uncrossed",
-            "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/06140fc170bb8a3282537aaf1242bed6.png",
-            "category": "Popular Games",
-            "gameURL": "https://poki.com/en/g/word-city-uncrossed",
-            "desc": "Trending Games",
-            "isNew": false,
-            "isPortrait":false
-          },{
-            "gameType":"pk",
-            "gameName": "Panda-Bubble-Shooter",
-            "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/575d8cdc8afccb74a6defb4c113ade4c.png",
-            "category": "Popular Games",
-            "gameURL": "https://poki.com/en/g/panda-bubble-shooter",
-            "desc": "Trending Games",
-            "isNew": true
+"isPortrait":false},{
+"gameType":"pk",
+"gameName": "Word-City-Uncrossed",
+"gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/06140fc170bb8a3282537aaf1242bed6.png",
+"category": "Popular Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Trending Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"pk",
+"gameName": "Panda-Bubble-Shooter",
+"gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/575d8cdc8afccb74a6defb4c113ade4c.png",
+"category": "Popular Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Trending Games",
+"isNew": true
 ,
-          "isPortrait":false},{
-            "gameType":"pk",
-            "gameName": "Mekorama",
-            "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/56cba7ef0668cad515855b98be92ac16.png",
-            "category": "Popular Games",
-            "gameURL": "https://poki.com/en/g/mekorama",
-            "desc": "Trending Games",
-            "isNew": true
+"isPortrait":false},{
+"gameType":"pk",
+"gameName": "Mekorama",
+"gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/56cba7ef0668cad515855b98be92ac16.png",
+"category": "Popular Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Trending Games",
+"isNew": true
 ,
-          "isPortrait":false},{
-            "gameType":"pk",
-            "gameName": "Stickman-Hook",
-            "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/99e090d154caf30f3625df7e456d5984.png",
-            "category": "Popular Games",
-            "gameURL": "https://poki.com/en/g/stickman-hook",
-            "desc": "Trending Games",
-            "isNew": true
+"isPortrait":false},{
+"gameType":"pk",
+"gameName": "Stickman-Hook",
+"gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/99e090d154caf30f3625df7e456d5984.png",
+"category": "Popular Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Trending Games",
+"isNew": true
 ,
-          "isPortrait":false},
+"isPortrait":false},
 
 
-      {
-        "gameType":"cz",
-        "gameName": "Winter-Clash-3d",
-        "gameImage": "https://images.crazygames.com/games/winter-clash-3d/cover-1584470160643.png?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Popular Games",
-        "gameURL": "https://www.crazygames.com/game/winter-clash-3d",
-        "desc": "Popular Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Soccer-Dash",
-        "gameImage": "https://images.crazygames.com/soccer-dash/20230217130325/soccer-dash-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Popular Games",
-        "gameURL": "https://www.crazygames.com/game/soccer-dash",
-        "desc": "Popular Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Penalty-Rivals",
-        "gameImage": "https://images.crazygames.com/penalty-rivals_16x9/20231123095210/penalty-rivals_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Popular Games",
-        "gameURL": "https://www.crazygames.com/game/penalty-rivals",
-        "desc": "Popular Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Find-The-Alien",
-        "gameImage": "https://images.crazygames.com/find-the-alien_16x9/20231205105953/find-the-alien_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Popular Games",
-        "gameURL": "https://www.crazygames.com/game/find-the-alien",
-        "desc": "Popular Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Shadow-Bullet",
-        "gameImage": "https://images.crazygames.com/shadow-bullet_16x9/20231204094416/shadow-bullet_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Popular Games",
-        "gameURL": "https://www.crazygames.com/game/shadow-bullet",
-        "desc": "Popular Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Monster-Trainer-Catching-Game",
-        "gameImage": "https://images.crazygames.com/monster-trainer-catching-game_16x9/20231204154316/monster-trainer-catching-game_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Popular Games",
-        "gameURL": "https://www.crazygames.com/game/monster-trainer-catching-game",
-        "desc": "Popular Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Tiny-Fishing",
-        "gameImage": "https://images.crazygames.com/games/tiny-fishing/cover-1680026294037.png?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Popular Games",
-        "gameURL": "https://www.crazygames.com/game/tiny-fishing",
-        "desc": "Popular Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Subway-Clash-Remastered",
-        "gameImage": "https://images.crazygames.com/subway-clash-remastered/20210429120753/subway-clash-remastered-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Popular Games",
-        "gameURL": "https://www.crazygames.com/game/subway-clash-remastered",
-        "desc": "Popular Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Oneline",
-        "gameImage": "https://images.crazygames.com/oneline/20220905160742/oneline-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Popular Games",
-        "gameURL": "https://www.crazygames.com/game/oneline",
-        "desc": "Popular Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Airport-Clash-3d",
-        "gameImage": "https://images.crazygames.com/games/airport-clash-3d/cover-1584470268242.png?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Popular Games",
-        "gameURL": "https://www.crazygames.com/game/airport-clash-3d",
-        "desc": "Popular Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Vegas-Clash-3d-yxd",
-        "gameImage": "https://images.crazygames.com/vegas-clash-3d-yxd/20211015093735/vegas-clash-3d-yxd-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Popular Games",
-        "gameURL": "https://www.crazygames.com/game/vegas-clash-3d-yxd",
-        "desc": "Popular Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Sniper-Clash-3d",
-        "gameImage": "https://images.crazygames.com/games/sniper-clash-3d/cover-1584470271989.png?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Popular Games",
-        "gameURL": "https://www.crazygames.com/game/sniper-clash-3d",
-        "desc": "Popular Games",
-        "isNew": false,
-        "isPortrait":false
-      },
+{
+"gameType":"cz",
+"gameName": "Winter-Clash-3d",
+"gameImage": "https://images.crazygames.com/games/winter-clash-3d/cover-1584470160643.png?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Popular Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Popular Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Soccer-Dash",
+"gameImage": "https://images.crazygames.com/soccer-dash/20230217130325/soccer-dash-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Popular Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Popular Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Penalty-Rivals",
+"gameImage": "https://images.crazygames.com/penalty-rivals_16x9/20231123095210/penalty-rivals_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Popular Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Popular Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Find-The-Alien",
+"gameImage": "https://images.crazygames.com/find-the-alien_16x9/20231205105953/find-the-alien_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Popular Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Popular Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Shadow-Bullet",
+"gameImage": "https://images.crazygames.com/shadow-bullet_16x9/20231204094416/shadow-bullet_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Popular Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Popular Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Monster-Trainer-Catching-Game",
+"gameImage": "https://images.crazygames.com/monster-trainer-catching-game_16x9/20231204154316/monster-trainer-catching-game_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Popular Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Popular Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Tiny-Fishing",
+"gameImage": "https://images.crazygames.com/games/tiny-fishing/cover-1680026294037.png?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Popular Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Popular Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Subway-Clash-Remastered",
+"gameImage": "https://images.crazygames.com/subway-clash-remastered/20210429120753/subway-clash-remastered-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Popular Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Popular Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Oneline",
+"gameImage": "https://images.crazygames.com/oneline/20220905160742/oneline-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Popular Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Popular Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Airport-Clash-3d",
+"gameImage": "https://images.crazygames.com/games/airport-clash-3d/cover-1584470268242.png?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Popular Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Popular Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Vegas-Clash-3d-yxd",
+"gameImage": "https://images.crazygames.com/vegas-clash-3d-yxd/20211015093735/vegas-clash-3d-yxd-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Popular Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Popular Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Sniper-Clash-3d",
+"gameImage": "https://images.crazygames.com/games/sniper-clash-3d/cover-1584470271989.png?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Popular Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Popular Games",
+"isNew": false,
+"isPortrait":false
+},
 
 
-      {
-        "gameType":"cz",
-        "gameName": "Cubes-2048-IO",
-        "gameImage": "https://images.crazygames.com/games/cubes-2048-io/cover_2x3-1693298929612.png?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Our Special",
-        "gameURL": "https://www.crazygames.com/game/cubes-2048-io",
-        "desc": "Our Special",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Goober-Dash",
-        "gameImage": "https://images.crazygames.com/goober-dash_2x3/20231002025034/goober-dash_2x3-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Our Special",
-        "gameURL": "https://www.crazygames.com/game/goober-dash",
-        "desc": "Our Special",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"pk",
-        "gameName": "Funny-Daycare",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/6f2136c5a99fc209eaf07e6b3bd069a0.png",
-        "category": "Our Special",
-        "gameURL": "https://poki.com/en/g/funny-daycare",
-        "desc": "Funny Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"pk",
-        "gameName": "Stickman-Bridge-Constructor",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/557d8f9dd1e9c4a3b76b0988e45cb9af.png",
-        "category": "Our Special",
-        "gameURL": "https://poki.com/en/g/stickman-bridge-constructor",
-        "desc": "Funny Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"pk",
-        "gameName": "Flip-Bros",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/6ad0d4d2e71f77da3bd821348dd89e97.png",
-        "category": "Our Special",
-        "gameURL": "https://poki.com/en/g/flip-bros",
-        "desc": "Funny Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"pk",
-        "gameName": "Poor-Eddie",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/bf83e47208822a41d35d8dc5f8fd0bb3.png",
-        "category": "Our Special",
-        "gameURL": "https://poki.com/en/g/poor-eddie",
-        "desc": "Funny Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"pk",
-        "gameName": "Thumb-Fighter",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/6e8ca2d5ef528d56bbbb57e26e6d18f9.png",
-        "category": "Our Special",
-        "gameURL": "https://poki.com/en/g/thumb-fighter",
-        "desc": "Funny Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"pk",
-        "gameName": "Bottle-Flip",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/ce41fca3-947a-4deb-a341-c0cc55480db6.png",
-        "category": "Our Special",
-        "gameURL": "https://poki.com/en/g/bottle-flip",
-        "desc": "Funny Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"pk",
-        "gameName": "Murder",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/baccf9660bfb476fe2c8ae9f5a2ec4d2.png",
-        "category": "Our Special",
-        "gameURL": "https://poki.com/en/g/murder",
-        "desc": "Funny Games",
-        "isNew": false,
-        "isPortrait":false
-      },
+{
+"gameType":"cz",
+"gameName": "Cubes-2048-IO",
+"gameImage": "https://images.crazygames.com/games/cubes-2048-io/cover_2x3-1693298929612.png?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Our Special",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Our Special",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Goober-Dash",
+"gameImage": "https://images.crazygames.com/goober-dash_2x3/20231002025034/goober-dash_2x3-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Our Special",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Our Special",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"pk",
+"gameName": "Funny-Daycare",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/6f2136c5a99fc209eaf07e6b3bd069a0.png",
+"category": "Our Special",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Funny Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"pk",
+"gameName": "Stickman-Bridge-Constructor",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/557d8f9dd1e9c4a3b76b0988e45cb9af.png",
+"category": "Our Special",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Funny Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"pk",
+"gameName": "Flip-Bros",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/6ad0d4d2e71f77da3bd821348dd89e97.png",
+"category": "Our Special",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Funny Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"pk",
+"gameName": "Poor-Eddie",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/bf83e47208822a41d35d8dc5f8fd0bb3.png",
+"category": "Our Special",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Funny Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"pk",
+"gameName": "Thumb-Fighter",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/6e8ca2d5ef528d56bbbb57e26e6d18f9.png",
+"category": "Our Special",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Funny Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"pk",
+"gameName": "Bottle-Flip",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/ce41fca3-947a-4deb-a341-c0cc55480db6.png",
+"category": "Our Special",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Funny Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"pk",
+"gameName": "Murder",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/baccf9660bfb476fe2c8ae9f5a2ec4d2.png",
+"category": "Our Special",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Funny Games",
+"isNew": false,
+"isPortrait":false
+},
 
 
-      {
-        "gameType":"cz",
-        "gameName": "Barbiemania",
-        "gameImage": "https://images.crazygames.com/barbiemania/20230721171538/barbiemania-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Beauty Games",
-        "gameURL": "https://www.crazygames.com/game/barbiemania",
-        "desc": "Beauty Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Emergency-Surgery",
-        "gameImage": "https://images.crazygames.com/emergency-surgery/20221031133327/emergency-surgery-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Beauty Games",
-        "gameURL": "https://www.crazygames.com/game/emergency-surgery",
-        "desc": "Beauty Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Fashion-Box-Christmas-Diva",
-        "gameImage": "https://images.crazygames.com/fashion-box-christmas-diva/20221223222204/fashion-box-christmas-diva-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Beauty Games",
-        "gameURL": "https://www.crazygames.com/game/fashion-box-christmas-diva",
-        "desc": "Beauty Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Fashion-Challenge-Catwalk-Run",
-        "gameImage": "https://images.crazygames.com/fashion-challenge-catwalk-run/20230602085423/fashion-challenge-catwalk-run-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Beauty Games",
-        "gameURL": "https://www.crazygames.com/game/fashion-challenge-catwalk-run",
-        "desc": "Beauty Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Funny-Kitty-Care",
-        "gameImage": "https://images.crazygames.com/funny-kitty-care/20220512164504/funny-kitty-care-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Beauty Games",
-        "gameURL": "https://www.crazygames.com/game/funny-kitty-care",
-        "desc": "Beauty Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Funny-Puppy-Care",
-        "gameImage": "https://images.crazygames.com/funny-puppy-care/20220420173746/funny-puppy-care-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Beauty Games",
-        "gameURL": "https://www.crazygames.com/game/funny-puppy-care",
-        "desc": "Beauty Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Live-Avatar-Maker-Girls",
-        "gameImage": "https://images.crazygames.com/live-avatar-maker-girls/20221212162856/live-avatar-maker-girls-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Beauty Games",
-        "gameURL": "https://www.crazygames.com/game/live-avatar-maker-girls",
-        "desc": "Beauty Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Model-Wedding---Girls-Games",
-        "gameImage": "https://images.crazygames.com/model-wedding---girls-games/20230524034032/model-wedding---girls-games-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Beauty Games",
-        "gameURL": "https://www.crazygames.com/game/model-wedding---girls-games",
-        "desc": "Beauty Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Nail-Art-Salon-For-Girls",
-        "gameImage": "https://images.crazygames.com/nail-art-salon-for-girls_16x9/20231019072026/nail-art-salon-for-girls_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Beauty Games",
-        "gameURL": "https://www.crazygames.com/game/nail-art-salon-for-girls",
-        "desc": "Beauty Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Royal-Dress-Up--Fashion-Queen",
-        "gameImage": "https://images.crazygames.com/royal-dress-up---fashion-queen/20230531090700/royal-dress-up---fashion-queen-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Beauty Games",
-        "gameURL": "https://www.crazygames.com/game/royal-dress-up---fashion-queen",
-        "desc": "Beauty Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Tictoc-Kpop-Fashion",
-        "gameImage": "https://images.crazygames.com/tictoc-kpop-fashion/20220727085336/tictoc-kpop-fashion-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Beauty Games",
-        "gameURL": "https://www.crazygames.com/game/tictoc-kpop-fashion",
-        "desc": "Beauty Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"pk",
-        "gameName": "Dress-Up-The-Lovely-Princess",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/1eefed164c2b690fc62b22568cfe7db8.png",
-        "category": "Beauty Games",
-        "gameURL": "https://poki.com/en/g/dress-up-the-lovely-princess",
-        "desc": "Girl MakeUp & DressUp Game",
-        "isNew": false,
-        "isPortrait":false
-      },
-      {
-        "gameType":"pk",
-        "gameName": "Pony-Dressup-2",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/9f07237f8362bcb7800df4a1ab91ab92.png",
-        "category": "Beauty Games",
-        "gameURL": "https://poki.com/en/g/pony-dressup-2",
-        "desc": "Girl MakeUp & DressUp Game",
-        "isNew": false,
-        "isPortrait":false
-      },
-      {
-        "gameType":"pk",
-        "gameName": "Pony-Dressup",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/95277058e6aa659534d527eff75b5c87.png",
-        "category": "Beauty Games",
-        "gameURL": "https://poki.com/en/g/pony-dressup",
-        "desc": "Girl MakeUp & DressUp Game",
-        "isNew": false,
-        "isPortrait":false
-      },
-      {
-        "gameType":"pk",
-        "gameName": "Ellie-And-Ben-Date-Night",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/32275773ac5110498a2b90ba900462ed.png",
-        "category": "Beauty Games",
-        "gameURL": "https://poki.com/en/g/ellie-and-ben-date-night",
-        "desc": "Girl MakeUp & DressUp Game",
-        "isNew": false,
-        "isPortrait":false
-      },
-      {
-        "gameType":"pk",
-        "gameName": "Hipster-Vs-Rockers",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/60b29f784b17caf93a3cecc36885722a4c312dcc4a30a31ef4ebaf1c2381ac90.png",
-        "category": "Beauty Games",
-        "gameURL": "https://poki.com/en/g/hipster-vs-rockers",
-        "desc": "Girl MakeUp & DressUp Game",
-        "isNew": false,
-        "isPortrait":false
-      },
-      {
-        "gameType":"pk",
-        "gameName": "Princess-Lovely-Fashion",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/8f86d78757961db16e64e8c8c5a116e1.png",
-        "category": "Beauty Games",
-        "gameURL": "https://poki.com/en/g/princess-lovely-fashion",
-        "desc": "Girl MakeUp & DressUp Game",
-        "isNew": false,
-        "isPortrait":false
-      },
-      {
-        "gameType":"pk",
-        "gameName": "Summer-Fashion-Makeover",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/f9d8cb2c53343113a638a9567322392e.png",
-        "category": "Beauty Games",
-        "gameURL": "https://poki.com/en/g/summer-fashion-makeover",
-        "desc": "Girl MakeUp & DressUp Game",
-        "isNew": false,
-        "isPortrait":false
-      },
+{
+"gameType":"cz",
+"gameName": "Barbiemania",
+"gameImage": "https://images.crazygames.com/barbiemania/20230721171538/barbiemania-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Beauty Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Beauty Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Emergency-Surgery",
+"gameImage": "https://images.crazygames.com/emergency-surgery/20221031133327/emergency-surgery-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Beauty Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Beauty Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Fashion-Box-Christmas-Diva",
+"gameImage": "https://images.crazygames.com/fashion-box-christmas-diva/20221223222204/fashion-box-christmas-diva-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Beauty Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Beauty Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Fashion-Challenge-Catwalk-Run",
+"gameImage": "https://images.crazygames.com/fashion-challenge-catwalk-run/20230602085423/fashion-challenge-catwalk-run-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Beauty Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Beauty Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Funny-Kitty-Care",
+"gameImage": "https://images.crazygames.com/funny-kitty-care/20220512164504/funny-kitty-care-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Beauty Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Beauty Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Funny-Puppy-Care",
+"gameImage": "https://images.crazygames.com/funny-puppy-care/20220420173746/funny-puppy-care-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Beauty Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Beauty Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Live-Avatar-Maker-Girls",
+"gameImage": "https://images.crazygames.com/live-avatar-maker-girls/20221212162856/live-avatar-maker-girls-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Beauty Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Beauty Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Model-Wedding---Girls-Games",
+"gameImage": "https://images.crazygames.com/model-wedding---girls-games/20230524034032/model-wedding---girls-games-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Beauty Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Beauty Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Nail-Art-Salon-For-Girls",
+"gameImage": "https://images.crazygames.com/nail-art-salon-for-girls_16x9/20231019072026/nail-art-salon-for-girls_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Beauty Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Beauty Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Royal-Dress-Up--Fashion-Queen",
+"gameImage": "https://images.crazygames.com/royal-dress-up---fashion-queen/20230531090700/royal-dress-up---fashion-queen-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Beauty Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Beauty Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Tictoc-Kpop-Fashion",
+"gameImage": "https://images.crazygames.com/tictoc-kpop-fashion/20220727085336/tictoc-kpop-fashion-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Beauty Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Beauty Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"pk",
+"gameName": "Dress-Up-The-Lovely-Princess",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/1eefed164c2b690fc62b22568cfe7db8.png",
+"category": "Beauty Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Girl MakeUp & DressUp Game",
+"isNew": false,
+"isPortrait":false
+},
+{
+"gameType":"pk",
+"gameName": "Pony-Dressup-2",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/9f07237f8362bcb7800df4a1ab91ab92.png",
+"category": "Beauty Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Girl MakeUp & DressUp Game",
+"isNew": false,
+"isPortrait":false
+},
+{
+"gameType":"pk",
+"gameName": "Pony-Dressup",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/95277058e6aa659534d527eff75b5c87.png",
+"category": "Beauty Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Girl MakeUp & DressUp Game",
+"isNew": false,
+"isPortrait":false
+},
+{
+"gameType":"pk",
+"gameName": "Ellie-And-Ben-Date-Night",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/32275773ac5110498a2b90ba900462ed.png",
+"category": "Beauty Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Girl MakeUp & DressUp Game",
+"isNew": false,
+"isPortrait":false
+},
+{
+"gameType":"pk",
+"gameName": "Hipster-Vs-Rockers",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/60b29f784b17caf93a3cecc36885722a4c312dcc4a30a31ef4ebaf1c2381ac90.png",
+"category": "Beauty Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Girl MakeUp & DressUp Game",
+"isNew": false,
+"isPortrait":false
+},
+{
+"gameType":"pk",
+"gameName": "Princess-Lovely-Fashion",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/8f86d78757961db16e64e8c8c5a116e1.png",
+"category": "Beauty Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Girl MakeUp & DressUp Game",
+"isNew": false,
+"isPortrait":false
+},
+{
+"gameType":"pk",
+"gameName": "Summer-Fashion-Makeover",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/f9d8cb2c53343113a638a9567322392e.png",
+"category": "Beauty Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Girl MakeUp & DressUp Game",
+"isNew": false,
+"isPortrait":false
+},
 
 
-      {
-        "gameType":"cz",
-        "gameName": "Stickman-Miners-Wars",
-        "gameImage": "https://images.crazygames.com/stickman-miners-wars_16x9/20231220081459/stickman-miners-wars_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Action Games",
-        "gameURL": "https://www.crazygames.com/game/stickman-miners-wars",
-        "desc": "Action Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"pk",
-        "gameName": "Combat-Reloaded",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/1c8089f7-7254-4cbf-b8bc-7581cd5412e4.png",
-        "category": "Action Games",
-        "gameURL": "https://poki.com/en/g/combat-reloaded",
-        "desc": "Shooting Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"pk",
-        "gameName": "Combat-Reloaded-2",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/84ad3def86043b739c7720b3098ae15b.png",
-        "category": "Action Games",
-        "gameURL": "https://poki.com/en/g/combat-reloaded-2",
-        "desc": "Shooting Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"pk",
-        "gameName": "Rebels-Clash",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/7748ae68e29db89aafcdfe0368be0d7dde654cb43d0111e3d4f102295bbbf11f.png",
-        "category": "Action Games",
-        "gameURL": "https://poki.com/en/g/rebels-clash",
-        "desc": "Shooting Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"pk",
-        "gameName": "Stick-Merge",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/3b3f4aeacf600fd3910f1c3d513c0636.png",
-        "category": "Action Games",
-        "gameURL": "https://poki.com/en/g/stick-merge",
-        "desc": "Shooting Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"pk",
-        "gameName": "Subway-Clash-3d",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/2cd29f9048f9f0ac59ec1201b77f4fdb.png",
-        "category": "Action Games",
-        "gameURL": "https://poki.com/en/g/subway-clash-3d",
-        "desc": "Shooting Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"pk",
-        "gameName": "The-Sniper-Code",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/cad360531002e844bda8d5647a87c424.png",
-        "category": "Action Games",
-        "gameURL": "https://poki.com/en/g/the-sniper-code",
-        "desc": "Shooting Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"pk",
-        "gameName": "Yohoho-io",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/9b373b5219cd66a82389d81d7cda8e23.jpeg",
-        "category": "Action Games",
-        "gameURL": "https://poki.com/en/g/yohoho-io",
-        "desc": ".io Game",
-        "isNew": false,
-        "isPortrait":false
-      },
-      {
-        "gameType":"pk",
-        "gameName": "Sharkio",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/0939cf73a9569bd7e17d7a8023234a04.png",
-        "category": "Action Games",
-        "gameURL": "https://poki.com/en/g/sharkio",
-        "desc": ".io Game",
-        "isNew": false,
-        "isPortrait":false
-      },
-      {
-        "gameType":"pk",
-        "gameName": "Flyordie-io",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/4617d96c-ae80-40a7-91d8-b5670a994084.png",
-        "category": "Action Games",
-        "gameURL": "https://poki.com/en/g/flyordie-io",
-        "desc": ".io Game",
-        "isNew": false,
-        "isPortrait":false
-      },
-      {
-        "gameType":"pk",
-        "gameName": "Drift-io",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/110bb77be2f5589f9a1b230473ec6537.png",
-        "category": "Action Games",
-        "gameURL": "https://poki.com/en/g/drift-io",
-        "desc": ".io Game",
-        "isNew": false,
-        "isPortrait":false
-      },
-      {
-        "gameType":"pk",
-        "gameName": "Ducklings-io",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/a55d935638969875b674471530c0e0a1.png",
-        "category": "Action Games",
-        "gameURL": "https://poki.com/en/g/ducklings-io",
-        "desc": ".io Game",
-        "isNew": false,
-        "isPortrait":false
-      },
-      {
-        "gameType":"pk",
-        "gameName": "Lurkers-io",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/84ed40b8ade4e9f5bbf1fa7b3acef3a3.png",
-        "category": "Action Games",
-        "gameURL": "https://poki.com/en/g/lurkers-io",
-        "desc": ".io Game",
-        "isNew": false,
-        "isPortrait":false
-      },
-      {
-        "gameType":"pk",
-        "gameName": "Superbrawl",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/0a74431daeac6d9684b11155842d97a1.png",
-        "category": "Action Games",
-        "gameURL": "https://poki.com/en/g/superbrawl",
-        "desc": ".io Game",
-        "isNew": false,
-        "isPortrait":false
-      },
-      {
-        "gameType":"pk",
-        "gameName": "Hide-And-Smash",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/fd22aa26fe2f504e8a0d71fae4dfe202.png",
-        "category": "Action Games",
-        "gameURL": "https://poki.com/en/g/hide-and-smash",
-        "desc": ".io Game",
-        "isNew": false,
-        "isPortrait":false
-      },
-      {
-        "gameType":"pk",
-        "gameName": "Tribals-io",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/0e49f86ec1509ef756fadeefa0ce917c.png",
-        "category": "Action Games",
-        "gameURL": "https://poki.com/en/g/tribals-io",
-        "desc": ".io Game",
-        "isNew": false,
-        "isPortrait":false
-      },
-      {
-        "gameType":"pk",
-        "gameName": "Venge-io",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/4e9734801150c81ec2c760b02116b3ac.png",
-        "category": "Action Games",
-        "gameURL": "https://poki.com/en/g/venge-io",
-        "desc": ".io Game",
-        "isNew": false,
-        "isPortrait":false
-      },
-      {
-        "gameType":"pk",
-        "gameName": "Pinturillo-2",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/3cf6b3ed65d9b7e54488f997610b5dfc.png",
-        "category": "Action Games",
-        "gameURL": "https://poki.com/en/g/pinturillo-2",
-        "desc": ".io Game",
-        "isNew": false,
-        "isPortrait":false
-      },
-      {
-        "gameType":"pk",
-        "gameName": "Thunderdogs-io",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/79c9eae7-290f-4952-8d84-a446fc102557.jpg",
-        "category": "Action Games",
-        "gameURL": "https://poki.com/en/g/thunderdogs-io",
-        "desc": ".io Game",
-        "isNew": false,
-        "isPortrait":false
-      },
-      {
-        "gameType":"pk",
-        "gameName": "Golfparty-io",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/10ed8a93c1235389a79fe5ae1139b783.png",
-        "category": "Action Games",
-        "gameURL": "https://poki.com/en/g/golfparty-io",
-        "desc": ".io Game",
-        "isNew": false,
-        "isPortrait":false
-      },
-      {
-        "gameType":"pk",
-        "gameName": "Narrow-one",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/e6705ae9f391f728af42e5ac894dce8c.png",
-        "category": "Action Games",
-        "gameURL": "https://poki.com/en/g/narrow-one",
-        "desc": ".io Game",
-        "isNew": false,
-        "isPortrait":false
-      },
-      {
-        "gameType":"pk",
-        "gameName": "Simplyupio",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/4c0179296d2ea99007c0c6fe2cf2d78b.png",
-        "category": "Action Games",
-        "gameURL": "https://poki.com/en/g/simplyupio",
-        "desc": ".io Game",
-        "isNew": false,
-        "isPortrait":false
-      },
-      {
-        "gameType":"pk",
-        "gameName": "Zoodrop",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/4eb7c84576f9c237da9dd755a623bd03.png",
-        "category": "Action Games",
-        "gameURL": "https://poki.com/en/g/zoodrop",
-        "desc": ".io Game",
-        "isNew": false,
-        "isPortrait":false
-      },
-      {
-        "gameType":"pk",
-        "gameName": "Ninja-io",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/cfaf0b218ff6733dc3105227a9b18874.png",
-        "category": "Action Games",
-        "gameURL": "https://poki.com/en/g/ninja-io",
-        "desc": ".io Game",
-        "isNew": false,
-        "isPortrait":false
-      },
+{
+"gameType":"cz",
+"gameName": "Stickman-Miners-Wars",
+"gameImage": "https://images.crazygames.com/stickman-miners-wars_16x9/20231220081459/stickman-miners-wars_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Action Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Action Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"pk",
+"gameName": "Combat-Reloaded",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/1c8089f7-7254-4cbf-b8bc-7581cd5412e4.png",
+"category": "Action Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Shooting Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"pk",
+"gameName": "Combat-Reloaded-2",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/84ad3def86043b739c7720b3098ae15b.png",
+"category": "Action Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Shooting Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"pk",
+"gameName": "Rebels-Clash",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/7748ae68e29db89aafcdfe0368be0d7dde654cb43d0111e3d4f102295bbbf11f.png",
+"category": "Action Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Shooting Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"pk",
+"gameName": "Stick-Merge",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/3b3f4aeacf600fd3910f1c3d513c0636.png",
+"category": "Action Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Shooting Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"pk",
+"gameName": "Subway-Clash-3d",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/2cd29f9048f9f0ac59ec1201b77f4fdb.png",
+"category": "Action Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Shooting Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"pk",
+"gameName": "The-Sniper-Code",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/cad360531002e844bda8d5647a87c424.png",
+"category": "Action Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Shooting Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"pk",
+"gameName": "Yohoho-io",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/9b373b5219cd66a82389d81d7cda8e23.jpeg",
+"category": "Action Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": ".io Game",
+"isNew": false,
+"isPortrait":false
+},
+{
+"gameType":"pk",
+"gameName": "Sharkio",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/0939cf73a9569bd7e17d7a8023234a04.png",
+"category": "Action Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": ".io Game",
+"isNew": false,
+"isPortrait":false
+},
+{
+"gameType":"pk",
+"gameName": "Flyordie-io",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/4617d96c-ae80-40a7-91d8-b5670a994084.png",
+"category": "Action Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": ".io Game",
+"isNew": false,
+"isPortrait":false
+},
+{
+"gameType":"pk",
+"gameName": "Drift-io",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/110bb77be2f5589f9a1b230473ec6537.png",
+"category": "Action Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": ".io Game",
+"isNew": false,
+"isPortrait":false
+},
+{
+"gameType":"pk",
+"gameName": "Ducklings-io",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/a55d935638969875b674471530c0e0a1.png",
+"category": "Action Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": ".io Game",
+"isNew": false,
+"isPortrait":false
+},
+{
+"gameType":"pk",
+"gameName": "Lurkers-io",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/84ed40b8ade4e9f5bbf1fa7b3acef3a3.png",
+"category": "Action Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": ".io Game",
+"isNew": false,
+"isPortrait":false
+},
+{
+"gameType":"pk",
+"gameName": "Superbrawl",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/0a74431daeac6d9684b11155842d97a1.png",
+"category": "Action Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": ".io Game",
+"isNew": false,
+"isPortrait":false
+},
+{
+"gameType":"pk",
+"gameName": "Hide-And-Smash",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/fd22aa26fe2f504e8a0d71fae4dfe202.png",
+"category": "Action Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": ".io Game",
+"isNew": false,
+"isPortrait":false
+},
+{
+"gameType":"pk",
+"gameName": "Tribals-io",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/0e49f86ec1509ef756fadeefa0ce917c.png",
+"category": "Action Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": ".io Game",
+"isNew": false,
+"isPortrait":false
+},
+{
+"gameType":"pk",
+"gameName": "Venge-io",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/4e9734801150c81ec2c760b02116b3ac.png",
+"category": "Action Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": ".io Game",
+"isNew": false,
+"isPortrait":false
+},
+{
+"gameType":"pk",
+"gameName": "Pinturillo-2",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/3cf6b3ed65d9b7e54488f997610b5dfc.png",
+"category": "Action Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": ".io Game",
+"isNew": false,
+"isPortrait":false
+},
+{
+"gameType":"pk",
+"gameName": "Thunderdogs-io",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/79c9eae7-290f-4952-8d84-a446fc102557.jpg",
+"category": "Action Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": ".io Game",
+"isNew": false,
+"isPortrait":false
+},
+{
+"gameType":"pk",
+"gameName": "Golfparty-io",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/10ed8a93c1235389a79fe5ae1139b783.png",
+"category": "Action Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": ".io Game",
+"isNew": false,
+"isPortrait":false
+},
+{
+"gameType":"pk",
+"gameName": "Narrow-one",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/e6705ae9f391f728af42e5ac894dce8c.png",
+"category": "Action Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": ".io Game",
+"isNew": false,
+"isPortrait":false
+},
+{
+"gameType":"pk",
+"gameName": "Simplyupio",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/4c0179296d2ea99007c0c6fe2cf2d78b.png",
+"category": "Action Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": ".io Game",
+"isNew": false,
+"isPortrait":false
+},
+{
+"gameType":"pk",
+"gameName": "Zoodrop",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/4eb7c84576f9c237da9dd755a623bd03.png",
+"category": "Action Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": ".io Game",
+"isNew": false,
+"isPortrait":false
+},
+{
+"gameType":"pk",
+"gameName": "Ninja-io",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/cfaf0b218ff6733dc3105227a9b18874.png",
+"category": "Action Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": ".io Game",
+"isNew": false,
+"isPortrait":false
+},
 
 
-      {
-        "gameType":"cz",
-        "gameName": "8-Ball-Billiards-Classic",
-        "gameImage": "https://images.crazygames.com/8-ball-billiards-classic_16x9/20231108025958/8-ball-billiards-classic_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "2 Players Games",
-        "gameURL": "https://www.crazygames.com/game/8-ball-billiards-classic",
-        "desc": "2 Players Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Billiards-Pool-8",
-        "gameImage": "https://images.crazygames.com/games/billiards-pool-8/thumb-1570103631999.png?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "2 Players Games",
-        "gameURL": "https://www.crazygames.com/game/billiards-pool-8",
-        "desc": "2 Players Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Bomb-It-5",
-        "gameImage": "https://images.crazygames.com/bombit5b.png?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "2 Players Games",
-        "gameURL": "https://www.crazygames.com/game/bomb-it-5",
-        "desc": "2 Players Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Crazy-Roll-3d",
-        "gameImage": "https://images.crazygames.com/games/crazy-roll-3d/cover_16x9-1693299833079.png?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "2 Players Games",
-        "gameURL": "https://www.crazygames.com/game/crazy-roll-3d",
-        "desc": "2 Players Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Volley-Random",
-        "gameImage": "https://images.crazygames.com/volley-random/20230131173658/volley-random-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "2 Players Games",
-        "gameURL": "https://www.crazygames.com/game/volley-random",
-        "desc": "2 Players Games",
-        "isNew": false,
-        "isPortrait":false
-      },
+{
+"gameType":"cz",
+"gameName": "8-Ball-Billiards-Classic",
+"gameImage": "https://images.crazygames.com/8-ball-billiards-classic_16x9/20231108025958/8-ball-billiards-classic_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "2 Players Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "2 Players Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Billiards-Pool-8",
+"gameImage": "https://images.crazygames.com/games/billiards-pool-8/thumb-1570103631999.png?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "2 Players Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "2 Players Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Bomb-It-5",
+"gameImage": "https://images.crazygames.com/bombit5b.png?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "2 Players Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "2 Players Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Crazy-Roll-3d",
+"gameImage": "https://images.crazygames.com/games/crazy-roll-3d/cover_16x9-1693299833079.png?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "2 Players Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "2 Players Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Volley-Random",
+"gameImage": "https://images.crazygames.com/volley-random/20230131173658/volley-random-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "2 Players Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "2 Players Games",
+"isNew": false,
+"isPortrait":false
+},
 
 
-      {
-        "gameType":"cz",
-        "gameName": "Capybara-Clicker",
-        "gameImage": "https://images.crazygames.com/games/capybara-clicker/cover-1678290947532.png?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Clickers Games",
-        "gameURL": "https://www.crazygames.com/game/capybara-clicker",
-        "desc": "Clickers Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Fish-Merge-frvr",
-        "gameImage": "https://images.crazygames.com/games/fish-merge-frvr/cover-1621940229740.png?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Clickers Games",
-        "gameURL": "https://www.crazygames.com/game/fish-merge-frvr",
-        "desc": "Clickers Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Idle-Pet-Business",
-        "gameImage": "https://images.crazygames.com/idle-pet-business/20220919183727/idle-pet-business-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Clickers Games",
-        "gameURL": "https://www.crazygames.com/game/idle-pet-business",
-        "desc": "Clickers Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Idle-Pinball-Breakout",
-        "gameImage": "https://images.crazygames.com/idle-pinball-breakout/20210105102537/idle-pinball-breakout-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Clickers Games",
-        "gameURL": "https://www.crazygames.com/game/idle-pinball-breakout",
-        "desc": "Clickers Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Mineclicker",
-        "gameImage": "https://images.crazygames.com/mineclicker/20201110134116/mineclicker-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Clickers Games",
-        "gameURL": "https://www.crazygames.com/game/mineclicker",
-        "desc": "Clickers Games",
-        "isNew": false,
-        "isPortrait":false
-      },
+{
+"gameType":"cz",
+"gameName": "Capybara-Clicker",
+"gameImage": "https://images.crazygames.com/games/capybara-clicker/cover-1678290947532.png?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Clickers Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Clickers Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Fish-Merge-frvr",
+"gameImage": "https://images.crazygames.com/games/fish-merge-frvr/cover-1621940229740.png?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Clickers Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Clickers Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Idle-Pet-Business",
+"gameImage": "https://images.crazygames.com/idle-pet-business/20220919183727/idle-pet-business-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Clickers Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Clickers Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Idle-Pinball-Breakout",
+"gameImage": "https://images.crazygames.com/idle-pinball-breakout/20210105102537/idle-pinball-breakout-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Clickers Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Clickers Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Mineclicker",
+"gameImage": "https://images.crazygames.com/mineclicker/20201110134116/mineclicker-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Clickers Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Clickers Games",
+"isNew": false,
+"isPortrait":false
+},
 
 
-     {
-        "gameType":"cz",
-        "gameName": "Herobrine-Vs-Monster-School",
-        "gameImage": "https://images.crazygames.com/herobrine-vs-monster-school/20230120164927/herobrine-vs-monster-school-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "MineCraft Games",
-        "gameURL": "https://www.crazygames.com/game/herobrine-vs-monster-school",
-        "desc": "MineCraft Games",
-        "isNew": false,
-        "isPortrait":false
-      },
+{
+"gameType":"cz",
+"gameName": "Herobrine-Vs-Monster-School",
+"gameImage": "https://images.crazygames.com/herobrine-vs-monster-school/20230120164927/herobrine-vs-monster-school-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "MineCraft Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "MineCraft Games",
+"isNew": false,
+"isPortrait":false
+},
 
 
-      {
-        "gameType":"cz",
-        "gameName": "8-Ball-Pool",
-        "gameImage": "https://images.crazygames.com/games/8-ball-pool/cover-1605091938974.jpeg?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Sports Game",
-        "gameURL": "https://www.crazygames.com/game/8-ball-pool",
-        "desc": "Sports Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Archery-Master",
-        "gameImage": "https://images.crazygames.com/archery-master/20221117141013/archery-master-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Sports Game",
-        "gameURL": "https://www.crazygames.com/game/archery-master",
-        "desc": "Sports Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Boxing-Random",
-        "gameImage": "https://images.crazygames.com/games/boxing-random/cover-1622139160089.jpeg?auto=format%2Ccompress&q=20&cs=strip&w=216&h=120&fit=crop&dpr=3",
-        "category": "Sports Game",
-        "gameURL": "https://www.crazygames.com/game/boxing-random",
-        "desc": "Sports Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Cricket-frvr",
-        "gameImage": "https://images.crazygames.com/games/cricket-frvr/thumb-1577460243742.png?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Sports Game",
-        "gameURL": "https://www.crazygames.com/game/cricket-frvr",
-        "desc": "Sports Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Goalkeeper-Champ",
-        "gameImage": "https://images.crazygames.com/goalkeeperchamp.png?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Sports Game",
-        "gameURL": "https://www.crazygames.com/game/goalkeeper-champ",
-        "desc": "Sports Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Goalkeeper-Wiz",
-        "gameImage": "https://images.crazygames.com/goalkeeper-wiz/20221121164216/goalkeeper-wiz-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Sports Game",
-        "gameURL": "https://www.crazygames.com/game/goalkeeper-wiz",
-        "desc": "Sports Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Soccer-Random",
-        "gameImage": "https://images.crazygames.com/soccer-random/20230126093840/soccer-random-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Sports Game",
-        "gameURL": "https://www.crazygames.com/game/soccer-random",
-        "desc": "Sports Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Table-Tennis-World-Tour",
-        "gameImage": "https://images.crazygames.com/table-tennis-world-tour_16x9/20230908041108/table-tennis-world-tour_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Sports Game",
-        "gameURL": "https://www.crazygames.com/game/table-tennis-world-tour",
-        "desc": "Sports Games",
-        "isNew": false,
-        "isPortrait":false
-      },
+{
+"gameType":"cz",
+"gameName": "8-Ball-Pool",
+"gameImage": "https://images.crazygames.com/games/8-ball-pool/cover-1605091938974.jpeg?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Sports Game",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Sports Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Archery-Master",
+"gameImage": "https://images.crazygames.com/archery-master/20221117141013/archery-master-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Sports Game",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Sports Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Boxing-Random",
+"gameImage": "https://images.crazygames.com/games/boxing-random/cover-1622139160089.jpeg?auto=format%2Ccompress&q=20&cs=strip&w=216&h=120&fit=crop&dpr=3",
+"category": "Sports Game",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Sports Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Cricket-frvr",
+"gameImage": "https://images.crazygames.com/games/cricket-frvr/thumb-1577460243742.png?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Sports Game",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Sports Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Goalkeeper-Champ",
+"gameImage": "https://images.crazygames.com/goalkeeperchamp.png?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Sports Game",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Sports Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Goalkeeper-Wiz",
+"gameImage": "https://images.crazygames.com/goalkeeper-wiz/20221121164216/goalkeeper-wiz-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Sports Game",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Sports Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Soccer-Random",
+"gameImage": "https://images.crazygames.com/soccer-random/20230126093840/soccer-random-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Sports Game",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Sports Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Table-Tennis-World-Tour",
+"gameImage": "https://images.crazygames.com/table-tennis-world-tour_16x9/20230908041108/table-tennis-world-tour_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Sports Game",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Sports Games",
+"isNew": false,
+"isPortrait":false
+},
 
 
-      {
-        "gameType":"cz",
-        "gameName": "Baby-Dress-Up",
-        "gameImage": "https://images.crazygames.com/baby-dress-up/20230522071209/baby-dress-up-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Baby Games",
-        "gameURL": "https://www.crazygames.com/game/baby-dress-up",
-        "desc": "Baby Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Candy-Hair-Salon--Doll-Games",
-        "gameImage": "https://images.crazygames.com/candy-hair-salon---doll-games/20230629041011/candy-hair-salon---doll-games-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Baby Games",
-        "gameURL": "https://www.crazygames.com/game/candy-hair-salon---doll-games",
-        "desc": "Baby Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Chibi-Doll-Dress-Up-Coloring",
-        "gameImage": "https://images.crazygames.com/chibi-doll-dress-up-coloring/20221020040157/chibi-doll-dress-up-coloring-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Baby Games",
-        "gameURL": "https://www.crazygames.com/game/chibi-doll-dress-up-coloring",
-        "desc": "Baby Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"pk",
-        "gameName": "Cozy-Room-Design",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/7840ca4c8b4bf0843ee1cecfc06696f6.png",
-        "category": "Baby Games",
-        "gameURL": "https://poki.com/en/g/cozy-room-design",
-        "desc": "Baby Games",
-        "isNew": false,
-        "isPortrait":false
-      },
-      {
-        "gameType":"pk",
-        "gameName": "Mermaid-Dress-Up",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/89fbba5cc53657fbe097c640ef989086.png",
-        "category": "Baby Games",
-        "gameURL": "https://poki.com/en/g/mermaid-dress-up",
-        "desc": "Baby Games",
-        "isNew": false,
-        "isPortrait":false
-      },
-      {
-        "gameType":"pk",
-        "gameName": "Feets-Doctor-Urgent-Care",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/b8fcf672c1a400378ec4fbe64446fe0c.png",
-        "category": "Baby Games",
-        "gameURL": "https://poki.com/en/g/feets-doctor-urgent-care",
-        "desc": "Baby Games",
-        "isNew": false,
-        "isPortrait":false
-      },
-      {
-        "gameType":"pk",
-        "gameName": "Twins-Adventures-Attic-Surprise",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/eba69c618322043ed349dbf26420a6cb.png",
-        "category": "Baby Games",
-        "gameURL": "https://poki.com/en/g/twins-adventures-attic-surprise",
-        "desc": "Baby Games",
-        "isNew": false,
-        "isPortrait":false
-      },
-      {
-        "gameType":"pk",
-        "gameName": "Dungeons-Dressups",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/0d19fb1ebee46a2b8c2987e79f10c72d.png",
-        "category": "Baby Games",
-        "gameURL": "https://poki.com/en/g/dungeons-dressups",
-        "desc": "Baby Games",
-        "isNew": false,
-        "isPortrait":false
-      },
+{
+"gameType":"cz",
+"gameName": "Baby-Dress-Up",
+"gameImage": "https://images.crazygames.com/baby-dress-up/20230522071209/baby-dress-up-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Baby Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Baby Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Candy-Hair-Salon--Doll-Games",
+"gameImage": "https://images.crazygames.com/candy-hair-salon---doll-games/20230629041011/candy-hair-salon---doll-games-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Baby Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Baby Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Chibi-Doll-Dress-Up-Coloring",
+"gameImage": "https://images.crazygames.com/chibi-doll-dress-up-coloring/20221020040157/chibi-doll-dress-up-coloring-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Baby Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Baby Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"pk",
+"gameName": "Cozy-Room-Design",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/7840ca4c8b4bf0843ee1cecfc06696f6.png",
+"category": "Baby Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Baby Games",
+"isNew": false,
+"isPortrait":false
+},
+{
+"gameType":"pk",
+"gameName": "Mermaid-Dress-Up",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/89fbba5cc53657fbe097c640ef989086.png",
+"category": "Baby Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Baby Games",
+"isNew": false,
+"isPortrait":false
+},
+{
+"gameType":"pk",
+"gameName": "Feets-Doctor-Urgent-Care",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/b8fcf672c1a400378ec4fbe64446fe0c.png",
+"category": "Baby Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Baby Games",
+"isNew": false,
+"isPortrait":false
+},
+{
+"gameType":"pk",
+"gameName": "Twins-Adventures-Attic-Surprise",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/eba69c618322043ed349dbf26420a6cb.png",
+"category": "Baby Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Baby Games",
+"isNew": false,
+"isPortrait":false
+},
+{
+"gameType":"pk",
+"gameName": "Dungeons-Dressups",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/0d19fb1ebee46a2b8c2987e79f10c72d.png",
+"category": "Baby Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Baby Games",
+"isNew": false,
+"isPortrait":false
+},
 
 
-      {
-        "gameType":"cz",
-        "gameName": "2048",
-        "gameImage": "https://images.crazygames.com/games/2048/thumb-1577452120997.png?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Brain Games",
-        "gameURL": "https://www.crazygames.com/game/2048",
-        "desc": "Brain Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "2048-Merge",
-        "gameImage": "https://images.crazygames.com/2048merge.png?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Brain Games",
-        "gameURL": "https://www.crazygames.com/game/2048-merge",
-        "desc": "Brain Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Braindom-2-Who-Is-Lying",
-        "gameImage": "https://images.crazygames.com/braindom-2-who-is-lying/20230316184530/braindom-2-who-is-lying-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Brain Games",
-        "gameURL": "https://www.crazygames.com/game/braindom-2-who-is-lying",
-        "desc": "Brain Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Brain-Teaser",
-        "gameImage": "https://images.crazygames.com/brain-teaser-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Brain Games",
-        "gameURL": "https://www.crazygames.com/game/brain-teaser",
-        "desc": "Brain Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Brain-Trainer",
-        "gameImage": "https://images.crazygames.com/games/brain-trainer/cover-1606895043712.png?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Brain Games",
-        "gameURL": "https://www.crazygames.com/game/brain-trainer",
-        "desc": "Brain Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "EI-Soul",
-        "gameImage": "https://images.crazygames.com/ei-soul_16x9/20231220090359/ei-soul_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Brain Games",
-        "gameURL": "https://www.crazygames.com/game/ei-soul",
-        "desc": "Brain Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Heart-Box",
-        "gameImage": "https://images.crazygames.com/heart-box_16x9/20231025101832/heart-box_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Brain Games",
-        "gameURL": "https://www.crazygames.com/game/heart-box",
-        "desc": "Brain Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Hexa-Blast-Game",
-        "gameImage": "https://images.crazygames.com/hexa-blast-game/20230203191111/hexa-blast-game-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Brain Games",
-        "gameURL": "https://www.crazygames.com/game/hexa-blast-game",
-        "desc": "Brain Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Math-Push",
-        "gameImage": "https://images.crazygames.com/math-push/20220103160234/math-push-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Brain Games",
-        "gameURL": "https://www.crazygames.com/game/math-push",
-        "desc": "Brain Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Stack-It",
-        "gameImage": "https://images.crazygames.com/stack-it_16x9/20230921032106/stack-it_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Brain Games",
-        "gameURL": "https://www.crazygames.com/game/stack-it",
-        "desc": "Brain Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Sudoku-Game",
-        "gameImage": "https://images.crazygames.com/sudokugame.png?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Brain Games",
-        "gameURL": "https://www.crazygames.com/game/sudoku-game",
-        "desc": "Brain Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"cz",
-        "gameName": "Word-Swipe-uwf",
-        "gameImage": "https://images.crazygames.com/word-swipe-uwf/20230503093134/word-swipe-uwf-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-        "category": "Brain Games",
-        "gameURL": "https://www.crazygames.com/game/word-swipe-uwf",
-        "desc": "Brain Games",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"pk",
-        "gameName": "Arithmetica",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/8b3408d50ffebc7659fa5307a19c6175.png",
-        "category": "Brain Games",
-        "gameURL": "https://poki.com/en/g/arithmetica",
-        "desc": "Brain And Maths Game",
-        "isNew": false,
-        "isPortrait":false
-      },
-      {
-        "gameType":"pk",
-        "gameName": "Math-Trivia-Live",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/25fc3541f37b557d503160b88e6fa3213bf12dd3b5757b79170b238a726a7ce5.png",
-        "category": "Brain Games",
-        "gameURL": "https://poki.com/en/g/math-trivia-live",
-        "desc": "Brain And Maths Game",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"pk",
-        "gameName": "Sudoku",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/fde33f9b7a0e003608c30f07e47bb4a4.png",
-        "category": "Brain Games",
-        "gameURL": "https://poki.com/en/g/sudoku",
-        "desc": "Brain And Maths Game",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"pk",
-        "gameName": "Math-Mahjong-Relax",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/9353086c812f00fc873b6b49c4db5f3f.png",
-        "category": "Brain Games",
-        "gameURL": "https://poki.com/en/g/math-mahjong-relax",
-        "desc": "Brain And Maths Game",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"pk",
-        "gameName": "Numbers",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/ddd68cd4387aad588bd48ca45c2f2290.png",
-        "category": "Brain Games",
-        "gameURL": "https://poki.com/en/g/numbers",
-        "desc": "Brain And Maths Game",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"pk",
-        "gameName": "Line-Up-Dots",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/d6b8ec8c03cba851275b9c0ae823ba3c.png",
-        "category": "Brain Games",
-        "gameURL": "https://poki.com/en/g/line-up-dots",
-        "desc": "Brain And Maths Game",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"pk",
-        "gameName": "Ultimate-Sudoku",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/bc07d0e7d1b5b448e0a932537b4ebf80.png",
-        "category": "Brain Games",
-        "gameURL": "https://poki.com/en/g/ultimate-sudoku",
-        "desc": "Brain And Maths Game",
-        "isNew": false,
-        "isPortrait":false
-      },{
-        "gameType":"pk",
-        "gameName": "Merge-The-Numbers",
-        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/e963e20cad2f5853ce98d196f6f69b71.jpg",
-        "category": "Brain Games",
-        "gameURL": "https://poki.com/en/g/merge-the-numbers",
-        "desc": "Brain And Maths Game",
-        "isNew": false,
-        "isPortrait":false
-      }
-            ]
+{
+"gameType":"cz",
+"gameName": "2048",
+"gameImage": "https://images.crazygames.com/games/2048/thumb-1577452120997.png?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Brain Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Brain Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "2048-Merge",
+"gameImage": "https://images.crazygames.com/2048merge.png?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Brain Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Brain Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Braindom-2-Who-Is-Lying",
+"gameImage": "https://images.crazygames.com/braindom-2-who-is-lying/20230316184530/braindom-2-who-is-lying-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Brain Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Brain Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Brain-Teaser",
+"gameImage": "https://images.crazygames.com/brain-teaser-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Brain Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Brain Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Brain-Trainer",
+"gameImage": "https://images.crazygames.com/games/brain-trainer/cover-1606895043712.png?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Brain Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Brain Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "EI-Soul",
+"gameImage": "https://images.crazygames.com/ei-soul_16x9/20231220090359/ei-soul_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Brain Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Brain Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Heart-Box",
+"gameImage": "https://images.crazygames.com/heart-box_16x9/20231025101832/heart-box_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Brain Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Brain Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Hexa-Blast-Game",
+"gameImage": "https://images.crazygames.com/hexa-blast-game/20230203191111/hexa-blast-game-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Brain Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Brain Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Math-Push",
+"gameImage": "https://images.crazygames.com/math-push/20220103160234/math-push-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Brain Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Brain Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Stack-It",
+"gameImage": "https://images.crazygames.com/stack-it_16x9/20230921032106/stack-it_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Brain Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Brain Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Sudoku-Game",
+"gameImage": "https://images.crazygames.com/sudokugame.png?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Brain Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Brain Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"cz",
+"gameName": "Word-Swipe-uwf",
+"gameImage": "https://images.crazygames.com/word-swipe-uwf/20230503093134/word-swipe-uwf-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+"category": "Brain Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Brain Games",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"pk",
+"gameName": "Arithmetica",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/8b3408d50ffebc7659fa5307a19c6175.png",
+"category": "Brain Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Brain And Maths Game",
+"isNew": false,
+"isPortrait":false
+},
+{
+"gameType":"pk",
+"gameName": "Math-Trivia-Live",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/25fc3541f37b557d503160b88e6fa3213bf12dd3b5757b79170b238a726a7ce5.png",
+"category": "Brain Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Brain And Maths Game",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"pk",
+"gameName": "Sudoku",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/fde33f9b7a0e003608c30f07e47bb4a4.png",
+"category": "Brain Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Brain And Maths Game",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"pk",
+"gameName": "Math-Mahjong-Relax",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/9353086c812f00fc873b6b49c4db5f3f.png",
+"category": "Brain Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Brain And Maths Game",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"pk",
+"gameName": "Numbers",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/ddd68cd4387aad588bd48ca45c2f2290.png",
+"category": "Brain Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Brain And Maths Game",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"pk",
+"gameName": "Line-Up-Dots",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/d6b8ec8c03cba851275b9c0ae823ba3c.png",
+"category": "Brain Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Brain And Maths Game",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"pk",
+"gameName": "Ultimate-Sudoku",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/bc07d0e7d1b5b448e0a932537b4ebf80.png",
+"category": "Brain Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Brain And Maths Game",
+"isNew": false,
+"isPortrait":false
+},{
+"gameType":"pk",
+"gameName": "Merge-The-Numbers",
+"gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/e963e20cad2f5853ce98d196f6f69b71.jpg",
+"category": "Brain Games",
+"gameURL": "https://550.play.online.thopgames.com/",
+"desc": "Brain And Maths Game",
+"isNew": false,
+"isPortrait":false
+}
+]
 }
