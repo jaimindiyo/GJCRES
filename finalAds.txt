@@ -45,7 +45,7 @@
     "googleIntroInterVisible":true,
     "adUrl":"https://550.play.online.thopgames.com/",
     "showAdSense":true,
-    "inAppAppOpenVisible":true,
+    "inAppAppOpenVisible":false,
     "playNowLoaderTime":0,
     "isNativeBorder":false
 }
