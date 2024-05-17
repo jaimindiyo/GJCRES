@@ -23,7 +23,7 @@
     "googleCategoryNativeVisible":true,
     "googleBannerVisible":false,
     "googleHomeBannerVisible":false,
-    "googleInterVisible":false,
+    "googleInterVisible":true,
     "splashInterVisible":false,
     "interTimeIntervalInSec":1,
     "isBackAdd":false,
