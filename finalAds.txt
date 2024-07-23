@@ -43,7 +43,7 @@
     "isIntro":true,
     "googleIntroNativeVisible":false,
     "googleIntroInterVisible":false,
-    "adUrl":"https://550.play.online.thopgames.com/",
+    "adUrl":"https://www.101.playpokigames.com/",
     "showAdSense":true,
     "inAppAppOpenVisible":false,
     "playNowLoaderTime":0,
