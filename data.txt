@@ -367,7 +367,7 @@
         "category": "2 Player Game",
         "gameURL": "https://trynowgames.com/full/clash-of-tanks",
         "desc": "2 Player Game",
-        "isNew": false,
+        "isNew": true,
         "isPortrait":false
           },{
         "gameType":"pk",
@@ -385,7 +385,7 @@
         "category": "2 Player Game",
         "gameURL": "https://trynowgames.com/full/money-movers",
         "desc": "2 Player Game",
-        "isNew": false,
+        "isNew": true,
         "isPortrait":false
           },{
         "gameType":"pk",
@@ -457,7 +457,7 @@
         "category": "Casual Game",
         "gameURL": "https://trynowgames.com/full/bubble-master",
         "desc": "Casual Game",
-        "isNew": false,
+        "isNew": true,
         "isPortrait":false
           },{
         "gameType":"pk",
@@ -520,7 +520,7 @@
         "category": "Casual Game",
         "gameURL": "https://trynowgames.com/full/dino-jump",
         "desc": "Casual Game",
-        "isNew": false,
+        "isNew": true,
         "isPortrait":false
           },{
         "gameType":"pk",
@@ -601,7 +601,7 @@
         "category": "3D Game",
         "gameURL": "https://trynowgames.com/full/woodturning-art",
         "desc": "3D Game",
-        "isNew": false,
+        "isNew": true,
         "isPortrait":false
           },{
         "gameType":"pk",
@@ -673,7 +673,7 @@
         "category": "3D Game",
         "gameURL": "https://trynowgames.com/full/fast-bus-ultimate-parking-3d-2022-",
         "desc": "3D Game",
-        "isNew": false,
+        "isNew": true,
         "isPortrait":false
           },{
         "gameType":"pk",
@@ -772,7 +772,7 @@
         "category": "3D Game",
         "gameURL": "https://trynowgames.com/full/bus-rush---bus-surfer",
         "desc": "3D Game",
-        "isNew": false,
+        "isNew": true,
         "isPortrait":false
           },{
         "gameType":"pk",
@@ -853,7 +853,7 @@
         "category": "Boys Game",
         "gameURL": "https://trynowgames.com/full/snake-io--jeu-serpent",
         "desc": "Boys Game",
-        "isNew": false,
+        "isNew": true,
         "isPortrait":false
           },{
         "gameType":"pk",
