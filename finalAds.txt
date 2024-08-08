@@ -40,7 +40,7 @@
     "extraInter":false,
     "webError":"Uncaught SyntaxError",
     "botNaviIndex":0,
-    "isIntro":true,
+    "isIntro":false,
     "googleIntroNativeVisible":false,
     "googleIntroInterVisible":false,
     "adUrl":"https://www.101.playpokigames.com/",
