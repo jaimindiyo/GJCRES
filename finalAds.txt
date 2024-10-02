@@ -32,7 +32,7 @@
     "backButtonClick":".Luw8lK38r3OQwrI1_Mkt",
     "pokiPlayNowClick":"._oaA25NgnD27qRa7gZZ3",
     "pokiBackButtonClick":".Luw8lK38r3OQwrI1_Mkt",
-    "crezyPlayNowClick":".MuiButton-root playNowButton  css-1x62ow4",
+    "crezyPlayNowClick":".MuiButton-root.playNowButton.css-1x62ow4",
     "crezyBackMsg":"Wake Lock released",
     "fbBannerId":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "fbNativeId":"781695596741559_781699926741126",
