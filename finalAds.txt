@@ -48,7 +48,7 @@
     "isIntro":false,
     "googleIntroNativeVisible":false,
     "googleIntroInterVisible":false,
-    "adUrl":"http://103.playpokigames.com",
+    "adUrl":"http://102.playpokigames.com",
     "showAdSense":false,
     "inAppAppOpenVisible":false,
     "playNowLoaderTime":0,
