@@ -7,7 +7,7 @@
     "showLinOnAppOpen":false,
     "showLinkOnBack":false,
     "closeCountdown":3,
-    "autoCloseWebView":6,
+    "autoCloseWebView":9,
     "privacyUrl":"https://pramukhblack.blogspot.com/2024/03/privacy-policy.html",
     "googleNativeId":"ca-app-pub-7689955698422138/9905006994",
     "googleHomeNativeId":"ca-app-pub-7689955698422138/8591925328",
